@@ -1,0 +1,123 @@
+[
+	{
+		"name" : "Los Angeles Ruby Conference",
+		"location" : "Los Angeles, CA",
+		"dates" : "2/8",
+		"url" : "http://larubyconf.com/",
+		"twitter" : "larubyconf"
+	}, {
+		"name" : "Big Ruby",
+		"location" : "Dallas, TX",
+		"dates" : "2/20-21",
+		"url" : "http://www.bigrubyconf.com/",
+		"twitter" : "bigrubyconf"
+	}, {
+		"name" : "Ruby on Ales",
+		"location" : "Bend, OR",
+		"dates" : "3/6-7",
+		"url" : "http://onales.com/",
+		"twitter" : "rbonales"
+	}, {
+		"name" : "MountainWest RubyConf",
+		"location" : "Salt Lake City, UT",
+		"dates" : "3/20-21",
+		"url" : "http://mtnwestrubyconf.org/",
+		"twitter" : "mwrc"
+	}, {
+		"name" : "Ancient City Ruby",
+		"location" : "St. Augustine, FL",
+		"dates" : "4/3-4",
+		"url" : "http://www.ancientcityruby.com/",
+		"twitter" : "ancientcityruby"
+	}, {
+		"name" : "RailsConf",
+		"location" : "Chicago, IL",
+		"dates" : "4/22-25",
+		"url" : "http://www.railsconf.com/",
+		"twitter" : "railsconf"
+	}, {
+		"name" : "Burlington Ruby Conference",
+		"location" : "Burlington, VT",
+		"dates" : "8/2-3",
+		"url" : "http://burlingtonrubyconference.com/",
+		"twitter" : "btvrubyconf"
+	}, {
+		"name" : "Madison Ruby Conference",
+		"location" : "Madison, WI",
+		"dates" : "8/22-23",
+		"url" : "http://madisonruby.org/",
+		"twitter" : "madisonruby"
+	}, {
+		"name" : "RubyConf",
+		"location" : "location unknown",
+		"dates" : "dates unknown",
+		"url" : "http://rubyconf.org/",
+		"twitter" : "rubyconf"
+	}, {
+		"name" : "WindyCityRails",
+		"location" : "Chicago, IL",
+		"dates" : "dates unknown",
+		"url" : "http://www.windycityrails.org/",
+		"twitter" : "windycityrails"
+	}, {
+		"name" : "Wicked Good Ruby",
+		"location" : "Boston, IL",
+		"dates" : "dates unknown",
+		"url" : "http://wickedgoodruby.com/",
+		"twitter" : "wickedgoodruby"
+	}, {
+		"name" : "Steel City Ruby",
+		"location" : "Pittsburgh, PA",
+		"dates" : "dates unknown",
+		"url" : "http://steelcityruby.org/",
+		"twitter" : "steelcityruby"
+	}, {
+		"name" : "Golden Gate Ruby Conference",
+		"location" : "San Francisco, CA",
+		"dates" : "dates unknown",
+		"url" : "http://gogaruco.com/",
+		"twitter" : "gogaruco"
+	}, {
+		"name" : "Rocky Mountain Ruby Conference",
+		"location" : "Boulder, CO",
+		"dates" : "dates unknown",
+		"url" : "http://rockymtnruby.com/",
+		"twitter" : "rockymtnruby"
+	}, {
+		"name" : "LoneStarRuby",
+		"location" : "Austin, TX",
+		"dates" : "dates unknown",
+		"url" : "http://www.lonestarruby.org/",
+		"twitter" : "lonestarruby"
+	}, {
+		"name" : "GoRuCo",
+		"location" : "New York, NY",
+		"dates" : "dates unknown",
+		"url" : "http://goruco.com/",
+		"twitter" : "goruco"
+	}, {
+		"name" : "Ruby Midwest",
+		"location" : "Kansas City, MO",
+		"dates" : "dates unknown",
+		"url" : "http://www.rubymidwest.com/",
+		"twitter" : "rubymidwest"
+	}, {
+		"name" : "Nickel City Ruby Conference",
+		"location" : "Buffalo, NY",
+		"dates" : "dates unknown",
+		"url" : "http://nickelcityruby.com/",
+		"twitter" : "nickelcityruby"
+	}, {
+		"name" : "Cascadia Ruby",
+		"location" : "Portland, OR",
+		"dates" : "dates unknown",
+		"url" : "http://cascadiaruby.com/",
+		"twitter" : "cascadiaruby"
+	}, {
+		"name" : "RubyNation",
+		"location" : "Washington, DC",
+		"dates" : "dates unknown",
+		"url" : "http://www.rubynation.org/",
+		"twitter" : "rubynation"
+	}
+]

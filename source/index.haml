@@ -1,0 +1,9 @@
+---
+pageable: true
+per_page: 10
+---
+%article
+  %dl
+    - data.events.each do |event|
+      %dt= link_to event.name, event.url
+      %dd #{event.dates} | #{event.location} | #{link_to "@#{event.twitter}", "http://twitter.com/#{event.twitter}"}
