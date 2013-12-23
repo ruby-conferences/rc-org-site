@@ -2,7 +2,7 @@
 pageable: true
 per_page: 10
 ---
-%article
+%article#home
   %dl
     - data.events.each do |event|
       %dt= link_to event.name, event.url
