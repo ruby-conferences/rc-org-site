@@ -7,13 +7,16 @@ community.
 
 If you have an update for an event, please send a PR!
 
-## Updates
+## Event News
 
-Both an RSS feed and a Twitter account are paired with this site and broadcast
-updates. There are a few types of updates that I'll broadcast:
+Filtered event news is published on the RSS feed and on
+[@rubyconferences][twitter]. In order to stay simple, only updates of the
+following type will be considered:
+
+[twitter]: https://twitter.com/rubyconferences
 
 * Event added
 * Dates announced
-* Registration life-cycle
 * CFP life-cycle
+* Registration life-cycle
 * Videos posted
