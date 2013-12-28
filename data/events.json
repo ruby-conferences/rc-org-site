@@ -1,10 +1,28 @@
 [
 	{
+		"name" : "Garden City RubyConf",
+		"location" : "Bangalore, India",
+		"dates" : "1/3-4",
+		"url" : "http://www.gardencityruby.org/",
+		"twitter" : "GardenCityRb"
+	}, {
+		"name" : "Rubyfuza",
+		"location" : "Cape Town, South Africa",
+		"dates" : "2/6-8",
+		"url" : "http://rubyfuza.org/",
+		"twitter" : "rubyfuza"
+	}, {
 		"name" : "Los Angeles Ruby Conference",
 		"location" : "Los Angeles, CA",
 		"dates" : "2/8",
 		"url" : "http://larubyconf.com/",
 		"twitter" : "larubyconf"
+	}, {
+		"name" : "Ruby Conf Australia",
+		"location" : "Sydney, Australia",
+		"dates" : "2/20-21",
+		"url" : "http://www.rubyconf.org.au/",
+		"twitter" : "rubyconf_au"
 	}, {
 		"name" : "Big Ruby",
 		"location" : "Dallas, TX",
@@ -18,11 +36,29 @@
 		"url" : "http://onales.com/",
 		"twitter" : "rbonales"
 	}, {
+		"name" : "wroc_love.rb",
+		"location" : "Wrocław, Poland",
+		"dates" : "3/14-16",
+		"url" : "http://wrocloverb.com/",
+		"twitter" : "wrocloverb"
+	}, {
 		"name" : "MountainWest RubyConf",
 		"location" : "Salt Lake City, UT",
 		"dates" : "3/20-21",
 		"url" : "http://mtnwestrubyconf.org/",
 		"twitter" : "mwrc"
+	}, {
+		"name" : "RubyConf India",
+		"location" : "Goa, India",
+		"dates" : "3/22-23",
+		"url" : "http://rubyconfindia.org/",
+		"twitter" : "rubyconfindia"
+	}, {
+		"name" : "RubyConf Philippines",
+		"location" : "Manila, Philippines",
+		"dates" : "3/28-29",
+		"url" : "http://rubyconf.ph/",
+		"twitter" : "RubyConfPH"
 	}, {
 		"name" : "Ancient City Ruby",
 		"location" : "St. Augustine, FL",
@@ -36,6 +72,36 @@
 		"url" : "http://www.railsconf.com/",
 		"twitter" : "railsconf"
 	}, {
+		"name" : "RubyConf Taiwan",
+		"location" : "Taipei, Taiwan",
+		"dates" : "4/25-26",
+		"url" : "http://rubyconf.tw/",
+		"twitter" : "rubytaiwan"
+	}, {
+		"name" : "Abril Pro Ruby",
+		"location" : "Porto de Galinhas, Brazil",
+		"dates" : "4/26",
+		"url" : "http://abrilproruby.com/",
+		"twitter" : "abrilproruby"
+	}, {
+		"name" : "Scottish Ruby Conf",
+		"location" : "Perthshire, Scotland",
+		"dates" : "5/12-13",
+		"url" : "http://scottishrubyconference.com",
+		"twitter" : "scotrubyconf"
+	}, {
+		"name" : "Nordic Ruby",
+		"location" : "Stockholm, Sweden",
+		"dates" : "6/6-9",
+		"url" : "http://www.nordicruby.org/",
+		"twitter" : "nordicruby"
+	}, {
+		"name" : "EuRuKo",
+		"location" : "Kiev, Ukraine",
+		"dates" : "6/20-21",
+		"url" : "http://www.euruko2014.org/",
+		"twitter" : "euruko"
+	}, {
 		"name" : "Burlington Ruby Conference",
 		"location" : "Burlington, VT",
 		"dates" : "8/2-3",
@@ -47,6 +113,12 @@
 		"dates" : "8/22-23",
 		"url" : "http://madisonruby.org/",
 		"twitter" : "madisonruby"
+	}, {
+		"name" : "Frozen Rails",
+		"location" : "Helsinki, Finland",
+		"dates" : "9/11-12",
+		"url" : "http://frozenrails.eu/",
+		"twitter" : "frozenrails"
 	}, {
 		"name" : "RubyConf",
 		"location" : "location unknown",
