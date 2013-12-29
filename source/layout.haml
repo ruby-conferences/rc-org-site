@@ -12,9 +12,9 @@
     #page
       %header
         %h1 #{link_to 'Ruby Conferences', '/'}
-        %p A simple list of Ruby conferences, published collaboratively with the Ruby community&ndash;#{link_to 'pull requests', 'https://github.com/ruby-conferences/site'} welcome! Get our filtered #{link_to 'event news', '/news/'} in the #{link_to 'RSS feed', '/news/feed.xml'} or on #{link_to '@rubyconferences', 'https://twitter.com/rubyconferences'}.
+        %p A simple list of Ruby conferences, published collaboratively with the Ruby community&ndash;#{link_to 'pull requests', 'https://github.com/ruby-conferences/site'} welcome! Get our filtered #{link_to 'event news', '/news/'} in the #{link_to 'Atom feed', '/news/feed.xml'} or on #{link_to '@rubyconferences', 'https://twitter.com/rubyconferences'}.
       = yield
       %footer
         %p#byLine lovingly built by #{link_to 'Jon Allured', 'http://jonallured.com'}
-        %p #{link_to 'RSS Feed', '/news/feed.xml'} | #{link_to '@rubyconferences', 'https://twitter.com/rubyconferences'}
+        %p #{link_to 'Atom Feed', '/news/feed.xml'} | #{link_to '@rubyconferences', 'https://twitter.com/rubyconferences'}
     = google_analytics_tag
