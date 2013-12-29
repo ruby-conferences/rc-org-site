@@ -1,6 +1,5 @@
 ---
 title: LA Ruby Conf CFP Closes 12/7
-published: false
 ---
 
 The Los Angeles Ruby Conference [Call for Proprosals][cfp] closes 12/7.

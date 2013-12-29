@@ -1,6 +1,5 @@
 ---
 title: Madison Ruby Registration Now Open
-published: false
 ---
 
 [Registration][reg] for Madison Ruby is now open.
