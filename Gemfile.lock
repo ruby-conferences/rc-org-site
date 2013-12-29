@@ -53,6 +53,8 @@ GEM
       rack-test (~> 0.6.1)
       thor (>= 0.15.2, < 2.0)
       tilt (~> 1.4.1)
+    middleman-google-analytics (0.0.2)
+      middleman-core (>= 3.0.6)
     middleman-sprockets (3.2.0)
       middleman-core (~> 3.2)
       sprockets (~> 2.1)
@@ -96,3 +98,4 @@ DEPENDENCIES
   dotenv
   middleman (~> 3.2.1)
   middleman-blog (~> 3.5.1)
+  middleman-google-analytics
