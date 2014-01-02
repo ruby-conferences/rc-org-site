@@ -191,5 +191,35 @@
 		"dates" : "dates unknown",
 		"url" : "http://www.rubynation.org/",
 		"twitter" : "rubynation"
+	}, {
+		"name" : "RubyKaigi",
+		"location" : "Tokyo, Japan",
+		"dates" : "dates unknown",
+		"url" : "http://rubykaigi.org",
+		"twitter" : "rubykaigi"
+	}, {
+		"name" : "Barcelona Ruby Conf",
+		"location" : "Barcelona, Spain",
+		"dates" : "dates unknown",
+		"url" : "http://www.baruco.org/",
+		"twitter" : "baruco"
+	}, {
+		"name" : "RubyConf Argentina",
+		"location" : "Buenos Aires, Argentina",
+		"dates" : "dates unknown",
+		"url" : "http://rubyconfargentina.org/",
+		"twitter" : "rubyconfar"
+	}, {
+		"name" : "Ruby Lugdunum",
+		"location" : "Lyon, France",
+		"dates" : "dates unknown",
+		"url" : "http://rulu.eu",
+		"twitter" : "rulu"
+	}, {
+		"name" : "RedDotRubyConf",
+		"location" : "Singapore",
+		"dates" : "dates unknown",
+		"url" : "http://reddotrubyconf.com/",
+		"twitter" : "reddotrubyconf"
 	}
 ]
