@@ -1,6 +1,5 @@
 ---
 title: RubyConf Philippines CFP Closes February 9th
-published: false
 ---
 
 The RubyConf Philippines [Call for Proprosals][cfp] closes February 9th.
