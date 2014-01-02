@@ -221,5 +221,11 @@
 		"dates" : "dates unknown",
 		"url" : "http://reddotrubyconf.com/",
 		"twitter" : "reddotrubyconf"
+	}, {
+		"name" : "RubyConf Uruguay",
+		"location" : "Montevideo, Uruguay",
+		"dates" : "dates unknown",
+		"url" : "http://rubyconfuruguay.org/",
+		"twitter" : "rubyconfuruguay"
 	}
 ]
