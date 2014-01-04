@@ -7,9 +7,7 @@
         %a(href="#") TBA
   %dl.current.events.active
     - data.current.each do |event|
-      %dt= link_to event.name, event.url
-      %dd #{event.dates} | #{event.location} | #{link_to "@#{event.twitter}", "http://twitter.com/#{event.twitter}"}
+      = partial :event, locals: { event: event }
   %dl.tba.events
     - data.tba.each do |event|
-      %dt= link_to event.name, event.url
-      %dd #{event.dates} | #{event.location} | #{link_to "@#{event.twitter}", "http://twitter.com/#{event.twitter}"}
+      = partial :event, locals: { event: event }
