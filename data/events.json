@@ -102,6 +102,12 @@
 		"url" : "http://www.euruko2014.org/",
 		"twitter" : "euruko"
 	}, {
+		"name" : "RedDotRubyConf",
+		"location" : "Singapore",
+		"dates" : "June 26-27, 2014",
+		"url" : "http://reddotrubyconf.com/",
+		"twitter" : "reddotrubyconf"
+	}, {
 		"name" : "Burlington Ruby Conference",
 		"location" : "Burlington, VT",
 		"dates" : "August 2-3, 2014",
@@ -215,12 +221,6 @@
 		"dates" : "dates unknown",
 		"url" : "http://rulu.eu",
 		"twitter" : "rulu"
-	}, {
-		"name" : "RedDotRubyConf",
-		"location" : "Singapore",
-		"dates" : "dates unknown",
-		"url" : "http://reddotrubyconf.com/",
-		"twitter" : "reddotrubyconf"
 	}, {
 		"name" : "RubyConf Uruguay",
 		"location" : "Montevideo, Uruguay",
