@@ -41,10 +41,28 @@ article
   dd a, dd a:visited
     color: #777
 
-dl.events
-  dt
-    font-size: 30px
-    margin-top: 20px
+article#home
+  nav
+    ul
+      list-style: none
+      margin: 0px auto
+      overflow: hidden
+      padding: 0
+      width: 175px
+      li
+        float: left
+        font-size: 22px
+        padding: 7px 14px
+        &.active
+          background-color: #ccc
+
+  dl.events
+    display: none
+    &.active
+      display: block
+    dt
+      font-size: 30px
+      margin-top: 20px
 
 article#news
   h1
