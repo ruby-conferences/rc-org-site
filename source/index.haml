@@ -5,9 +5,14 @@
         %a(href="#") Current
       %li#tba
         %a(href="#") TBA
+      %li#past
+        %a(href="#") Past
   %dl.current.events.active
     - data.current.each do |event|
       = partial :event, locals: { event: event }
   %dl.tba.events
     - data.tba.each do |event|
+      = partial :event, locals: { event: event }
+  %dl.past.events
+    - data.past.each do |event|
       = partial :event, locals: { event: event }
