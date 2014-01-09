@@ -6,12 +6,6 @@
 		"url" : "http://rubyconf.org/",
 		"twitter" : "rubyconf"
 	}, {
-		"name" : "WindyCityRails",
-		"location" : "Chicago, IL",
-		"dates" : "dates unknown",
-		"url" : "http://www.windycityrails.org/",
-		"twitter" : "windycityrails"
-	}, {
 		"name" : "Wicked Good Ruby",
 		"location" : "Boston, IL",
 		"dates" : "dates unknown",

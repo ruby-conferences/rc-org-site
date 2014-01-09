@@ -114,6 +114,12 @@
 		"url" : "http://madisonruby.org/",
 		"twitter" : "madisonruby"
 	}, {
+		"name" : "WindyCityRails",
+		"location" : "Chicago, IL",
+		"dates" : "September 4-5, 2014",
+		"url" : "http://www.windycityrails.org/",
+		"twitter" : "windycityrails"
+	}, {
 		"name" : "Frozen Rails",
 		"location" : "Helsinki, Finland",
 		"dates" : "September 11-12, 2014",
