@@ -66,12 +66,6 @@
 		"url" : "http://www.rubynation.org/",
 		"twitter" : "rubynation"
 	}, {
-		"name" : "RubyKaigi",
-		"location" : "Tokyo, Japan",
-		"dates" : "dates unknown",
-		"url" : "http://rubykaigi.org",
-		"twitter" : "rubykaigi"
-	}, {
 		"name" : "Barcelona Ruby Conf",
 		"location" : "Barcelona, Spain",
 		"dates" : "dates unknown",
