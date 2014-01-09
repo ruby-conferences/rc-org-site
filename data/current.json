@@ -119,5 +119,11 @@
 		"dates" : "September 11-12, 2014",
 		"url" : "http://frozenrails.eu/",
 		"twitter" : "frozenrails"
+	}, {
+		"name" : "RailsIsrael",
+		"location" : "Tel Aviv, Israel",
+		"dates" : "November 12-13, 2014",
+		"url" : "http://railsisrael2014.events.co.il/",
+		"twitter" : "fogelmania"
 	}
 ]
