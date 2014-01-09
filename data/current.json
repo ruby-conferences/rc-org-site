@@ -60,6 +60,12 @@
 		"url" : "http://www.ancientcityruby.com/",
 		"twitter" : "ancientcityruby"
 	}, {
+		"name" : "RubyKaigi",
+		"location" : "Tokyo, Japan",
+		"dates" : "April 19",
+		"url" : "http://rubykaigi.org",
+		"twitter" : "rubykaigi"
+	}, {
 		"name" : "RailsConf",
 		"location" : "Chicago, IL",
 		"dates" : "April 22-25, 2014",
