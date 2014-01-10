@@ -24,6 +24,12 @@
 		"url" : "http://gogaruco.com/",
 		"twitter" : "gogaruco"
 	}, {
+		"name" : "Software Craftmanship North America",
+		"location" : "Chicago, IL",
+		"dates" : "dates unknown",
+		"url" : "http://scna.softwarecraftsmanship.org/",
+		"twitter" : "scna"
+	}, {
 		"name" : "Rocky Mountain Ruby Conference",
 		"location" : "Boulder, CO",
 		"dates" : "dates unknown",
