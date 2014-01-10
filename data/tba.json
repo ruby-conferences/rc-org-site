@@ -24,6 +24,12 @@
 		"url" : "http://gogaruco.com/",
 		"twitter" : "gogaruco"
 	}, {
+		"name" : "Software Craftmanship North America",
+		"location" : "Chicago, IL",
+		"dates" : "dates unknown",
+		"url" : "http://scna.softwarecraftsmanship.org/",
+		"twitter" : "scna"
+	}, {
 		"name" : "Rocky Mountain Ruby Conference",
 		"location" : "Boulder, CO",
 		"dates" : "dates unknown",
@@ -65,12 +71,6 @@
 		"dates" : "dates unknown",
 		"url" : "http://www.rubynation.org/",
 		"twitter" : "rubynation"
-	}, {
-		"name" : "RubyKaigi",
-		"location" : "Tokyo, Japan",
-		"dates" : "dates unknown",
-		"url" : "http://rubykaigi.org",
-		"twitter" : "rubykaigi"
 	}, {
 		"name" : "Barcelona Ruby Conf",
 		"location" : "Barcelona, Spain",
