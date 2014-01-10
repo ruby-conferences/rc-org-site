@@ -2,11 +2,11 @@
   %nav
     %ul
       %li#current.active
-        %a(href="#") Current
+        %a(href="#") Current (#{data.current.count})
       %li#tba
-        %a(href="#") TBA
+        %a(href="#") TBA (#{data.tba.count})
       %li#past
-        %a(href="#") Past
+        %a(href="#") Past (#{data.past.count})
   %dl.current.events.active
     - data.current.each do |event|
       = partial :event, locals: { event: event }
