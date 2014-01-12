@@ -1,9 +1,10 @@
 # Ruby Conferences
 
-<rubyconferences.org> is a basic list of Ruby conferences, published
+[rubyconferences.org][r] is a basic list of Ruby conferences, published
 collaboratively with the Ruby community. Filtered event news is available in the
 [feed][f] and [@rubyconferences][t].
 
+[r]: http://rubyconferences.org/
 [f]: http://rubyconferences.org/news/feed.xml
 [t]: https://twitter.com/rubyconferences
 
