@@ -1,89 +1,115 @@
-body
-  background-color: #900
-  color: #444
-  font-family: 'arial', sans-serif
-  font-size: 18px
+@import 'bourbon/bourbon'
+
+// Tantek Celik's Whitespace Reset
+//      Author:   Tantek Celik, Shane Riley
+//     Version:   (CC) 2010 Some Rights Reserved - http://creativecommons.org/licenses/by/2.0
+// Description: Resets default styling of common browsers to a common base
+
+ul,ol
+  list-style: none
+h1,h2,h3,h4,h5,h6,pre,code
+  font-size: 1em
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input,dl,dt,dd, figure, figcaption
   margin: 0
   padding: 0
+a img,:link img,:visited img, fieldset
+  border: none
+address
+  font-style: normal
+header, section, article, nav, footer, hgroup, details, summary, figure, main
+  display: block
+mark
+  color: inherit
+  background: transparent
+abbr
+  border: none
+summary::-webkit-details-marker
+  display: none
 
-#page
-  background-color: #fff
-  margin: 20px auto
-  padding: 20px
-  width: 500px
++keyframes(drop)
+  from
+    top: -500px
+  to
+    top: 0
 
++keyframes(growx)
+  from
+    width: 0
+    margin-left: 75px
+  to
+    width: 150px
+    margin-left: 0
+
+// 2s total
++keyframes(shudder)
+  0%
+    margin-top: 0
+  40%
+    margin-top: 0
+  42%
+    margin-top: 5px
+  44%
+    margin-top: 0
+  60%
+    margin-top: 0
+  62%
+    margin-top: 5px
+  64%
+    margin-top: 0
+  70%
+    margin-top: 0
+  72%
+    margin-top: 5px
+  74%
+    margin-top: 0
+  100%
+    margin-top: 0
+
+= shadowy($steps, $base: #e5e5e5, $side: #f5f5f5)
+  $output: 0px 1px 0px $side
+  @for $i from 2 through $steps - 1
+    $output: $output + ", #{$i*.5}px #{$i}px 0px #{$side}"
+    $side: darken($side, .2%)
+  @for $i from 1 through $steps
+    $output: $output + ", #{$i*3}px #{$i*5}px #{$i*3}px #{$base}"
+    $base: transparentize($base, .07)
+  text-shadow: unquote($output)
+
++keyframes(grow)
+  0%
+    +shadowy(1, #fafafa, #fafafa)
+    top: 0
+    color: #fafafa
+  100%
+    +shadowy(20)
+    top: -20px
+    left: -10px
+    color: #fff
+
+a
+  text-decoration: none
 a, a:visited
   color: #444
 a:active, a:hover
   color: #000
 
+body
+  background: #fafafa
+
 header
   h1
-    font-family: 'georgia', serif
-    font-size: 48px
-    margin-bottom: 20px
-    margin-top: 0px
-    text-align: center
-  p
-    color: #777
-    line-height: 28px
-
-article
-  dl
-    margin: 0
-    padding: 0
-  dt
-    margin-bottom: 5px
-  dd
-    color: #777
-    line-height: 28px
-    margin: 0
-  dd a, dd a:visited
-    color: #777
-
-article#home
-  nav
-    ul
-      list-style: none
-      margin: 0px auto
-      overflow: hidden
-      padding: 0
-      width: 370px
-      li
-        float: left
-        font-size: 22px
-        padding: 7px 14px
-        &.active
-          background-color: #ccc
-
-  dl.events
-    display: none
-    &.active
-      display: block
-    dt
-      font-size: 30px
-      margin-top: 20px
-
-article#news
-  h1
-    font-size: 28px
-    text-align: center
-  dt
-    font-size: 22px
-    margin-top: 25px
-    time
-      color: #777
-      display: block
-      font-style: italic
-      font-size: 14px
-      margin-top: 5px
-
-footer
-  margin-top: 30px
-  overflow: hidden
-  p
-    font-size: 14px
-    margin: 0
-  #byLine
-    font-style: italic
-    float: right
+    padding: 100px
+    color: #fff
+    +animation(grow 2s $ease-in-out-cubic forwards)
+    font-family: 'Squada One', helvetica, sans-serif
+    text-transform: uppercase
+    position: relative
+    span
+      position: relative
+      font-size: 300px
+      line-height: 185px
+      letter-spacing: -15px
+      + span
+        font-size: 140px
+        line-height: 120px
+        letter-spacing: -5px
