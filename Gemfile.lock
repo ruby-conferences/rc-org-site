@@ -6,6 +6,9 @@ GEM
       multi_json (~> 1.0)
     addressable (2.3.5)
     atomic (1.1.14)
+    bourbon (3.1.8)
+      sass (>= 3.2.0)
+      thor
     builder (3.2.2)
     chunky_png (1.2.9)
     coffee-script (2.2.0)
@@ -94,6 +97,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bourbon
   builder (~> 3.0)
   dotenv
   middleman (~> 3.2.1)
