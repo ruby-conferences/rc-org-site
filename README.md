@@ -30,7 +30,7 @@ In an effort to keep the news focused, only the following items are covered:
 
 A brand new event would also be covered by a news item.
 
-### Life cycle News
+### Life Cycle News
 
 Both an event's call for proposals and registration are life cycle news - they
 have an announcement and a deadline. This type of news is covered by the
