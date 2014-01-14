@@ -69,7 +69,7 @@ page "/news/feed.xml", layout: false
 # activate :automatic_image_sizes
 
 # Reload the browser automatically whenever files change
-# activate :livereload
+activate :livereload
 
 # Methods defined in the helpers block are available in templates
 # helpers do
@@ -83,6 +83,8 @@ set :css_dir, 'css'
 set :js_dir, 'js'
 
 set :images_dir, 'images'
+
+set :markdown_engine, :redcarpet
 
 configure :development do
   activate :google_analytics do |ga|
