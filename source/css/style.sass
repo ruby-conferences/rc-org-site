@@ -1,115 +1,115 @@
 @import 'bourbon/bourbon'
-
-// Tantek Celik's Whitespace Reset
-//      Author:   Tantek Celik, Shane Riley
-//     Version:   (CC) 2010 Some Rights Reserved - http://creativecommons.org/licenses/by/2.0
-// Description: Resets default styling of common browsers to a common base
-
-ul,ol
-  list-style: none
-h1,h2,h3,h4,h5,h6,pre,code
-  font-size: 1em
-ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input,dl,dt,dd, figure, figcaption
-  margin: 0
-  padding: 0
-a img,:link img,:visited img, fieldset
-  border: none
-address
-  font-style: normal
-header, section, article, nav, footer, hgroup, details, summary, figure, main
-  display: block
-mark
-  color: inherit
-  background: transparent
-abbr
-  border: none
-summary::-webkit-details-marker
-  display: none
-
-+keyframes(drop)
-  from
-    top: -500px
-  to
-    top: 0
-
-+keyframes(growx)
-  from
-    width: 0
-    margin-left: 75px
-  to
-    width: 150px
-    margin-left: 0
-
-// 2s total
-+keyframes(shudder)
-  0%
-    margin-top: 0
-  40%
-    margin-top: 0
-  42%
-    margin-top: 5px
-  44%
-    margin-top: 0
-  60%
-    margin-top: 0
-  62%
-    margin-top: 5px
-  64%
-    margin-top: 0
-  70%
-    margin-top: 0
-  72%
-    margin-top: 5px
-  74%
-    margin-top: 0
-  100%
-    margin-top: 0
-
-= shadowy($steps, $base: #e5e5e5, $side: #f5f5f5)
-  $output: 0px 1px 0px $side
-  @for $i from 2 through $steps - 1
-    $output: $output + ", #{$i*.5}px #{$i}px 0px #{$side}"
-    $side: darken($side, .2%)
-  @for $i from 1 through $steps
-    $output: $output + ", #{$i*3}px #{$i*5}px #{$i*3}px #{$base}"
-    $base: transparentize($base, .07)
-  text-shadow: unquote($output)
-
-+keyframes(grow)
-  0%
-    +shadowy(1, #fafafa, #fafafa)
-    top: 0
-    color: #fafafa
-  100%
-    +shadowy(20)
-    top: -20px
-    left: -10px
-    color: #fff
+@import 'cask/reset'
+@import 'cask/cask'
+@import 'mixins'
 
 a
   text-decoration: none
-a, a:visited
   color: #444
-a:active, a:hover
-  color: #000
+  +transition(color .2s)
+  &:active,
+  &:hover
+    color: #ea1010
 
 body
-  background: #fafafa
-
-header
-  h1
-    padding: 100px
-    color: #fff
-    +animation(grow 2s $ease-in-out-cubic forwards)
+  background: #e9e9e9
+  font-family: 'Exo 2', helvetica, sans-serif
+  color: #999
+  text-shadow: 1px 1px rgba(255,255,255,.5)
+  font-size: 20px
+  line-height: 160%
+  font-weight: 200
+  .extruded
     font-family: 'Squada One', helvetica, sans-serif
     text-transform: uppercase
+    font-size: 60px
     position: relative
+    +shadowy(1, #e9e9e9, #e9e9e9, #e9e9e9)
+    color: #e9e9e9
+    +transition(color, text-shadow, top, left)
+    +transition-duration(2s)
+    letter-spacing: -1px
+  &.initialized
+    .extruded
+      +shadowy(20)
+      top: -20px
+      left: -10px
+      color: #fff
+
+#page
+  max-width: 1200px
+  margin: 0 auto
+  padding: 0 80px
+
+header
+  padding: 80px 0
+  h1
+    margin: 0 0 40px 0
     span
       position: relative
       font-size: 300px
-      line-height: 185px
+      line-height: 190px
       letter-spacing: -15px
+      display: block
       + span
         font-size: 140px
         line-height: 120px
         letter-spacing: -5px
+
+footer
+  padding: 80px 0
+  font-size: 16px
+  ul
+    +horizontal-list
+
+#home
+  nav
+    margin: 0 0 40px 10px
+    ul
+      li
+        display: inline-block
+        +transition(color, text-shadow)
+        + li
+          margin: 0 0 0 40px
+        &:hover a,
+        &.active a,
+        a:active
+          +shadowy(20, #f9ecec, $highlight: #fffafa)
+          color: #fff
+        a:active
+          +shadowy(20, #ffe5e5, $highlight: #fffafa)
+        &:hover a
+          +transition-duration(.4s)
+        a
+          position: relative
+          font-family: 'Squada One', helvetica, sans-serif
+          text-transform: uppercase
+          font-size: 60px
+  dl
+    display: none
+    &.active
+      display: block
+    dt
+      font-size: 30px
+    dd
+      margin: 0 0 30px 0
+      ul
+        +horizontal-list
+
+#news
+  h1
+    margin: 0 0 40px 10px
+  dl
+    dt
+      position: relative
+      padding-left: 120px
+      time
+        position: absolute
+        left: 0
+        top: 0
+        text-transform: uppercase
+        font-size: 16px
+      a
+        font-size: 26px
+    dd
+      margin: 0 0 30px 120px

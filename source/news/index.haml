@@ -3,11 +3,11 @@ pageable: true
 per_page: 10
 ---
 %article#news
-  %h1 Event News
+  %h1.extruded Event News
 
   %dl
     - blog.articles.each do |article|
       %dt
-        = link_to article.title, article.url
         %time= article.date.strftime('%b %e %Y')
+        = link_to article.title, article.url
       %dd= article.body

@@ -1,8 +1,13 @@
 $ ->
-  $('nav li').click (e)->
-    e.preventDefault()
-    $this = $(this)
+  $('body').addClass('initialized')
 
-    unless $this.hasClass 'active'
-      $('nav li, dl.events').removeClass 'active'
-      $("dl.#{$this.attr('id')}").add($this).addClass 'active'
+  $home =
+    $el: $("#home")
+    toggleNav: (e) ->
+      $li = $(e.target).closest('li')
+      $li.addClass('active').siblings().removeClass('active')
+      @$el.find('dl').removeClass('active').eq($li.index()).addClass('active')
+    init: ->
+      @$el.find('nav li a').click($.proxy(@toggleNav, @)).first().click()
+
+  $home.init()

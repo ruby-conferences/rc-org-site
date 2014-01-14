@@ -1,0 +1,20 @@
+= shadowy($steps, $side: #f0f0f0, $base: #dedede, $highlight: #fff)
+  $output: 1px 1px 1px $highlight
+  $output: $output + ", 0px 1px 0px #{$side}"
+  @for $i from 2 through $steps - 1
+    $output: $output + ", #{$i*.5}px #{$i}px 0px #{$side}"
+    $side: darken($side, .32%)
+  @for $i from 1 through $steps
+    $output: $output + ", #{$i*3}px #{$i*5}px #{$i*.85}px #{$base}"
+    $base: transparentize($base, .09)
+  text-shadow: unquote($output)
+
+= horizontal-list
+  li
+    display: inline-block
+    p
+      display: inline
+    + li:before
+      content: "•"
+      margin: 0 10px
+      display: inline-block

@@ -1,2 +1,6 @@
 %dt= link_to event.name, event.url
-%dd #{event.dates} | #{event.location} | #{link_to "@#{event.twitter}", "https://twitter.com/#{event.twitter}"}
+%dd
+  %ul
+    %li #{event.dates}
+    %li= event.location
+    %li<>= link_to "@#{event.twitter}", "https://twitter.com/#{event.twitter}"

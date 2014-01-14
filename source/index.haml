@@ -1,18 +1,18 @@
 %article#home
   %nav
     %ul
-      %li#current.active
-        %a(href="#") Current (#{data.current.count})
-      %li#tba
-        %a(href="#") TBA (#{data.tba.count})
-      %li#past
-        %a(href="#") Past (#{data.past.count})
-  %dl.current.events.active
+      %li
+        %a.extruded(href="#") #{data.current.count} Current
+      %li
+        %a.extruded(href="#") #{data.tba.count} TBA
+      %li
+        %a.extruded(href="#") #{data.past.count} Past
+  %dl
     - data.current.each do |event|
       = partial :event, locals: { event: event }
-  %dl.tba.events
+  %dl
     - data.tba.each do |event|
       = partial :event, locals: { event: event }
-  %dl.past.events
+  %dl
     - data.past.each do |event|
       = partial :event, locals: { event: event }

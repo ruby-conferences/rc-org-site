@@ -7,6 +7,7 @@
     %title Ruby Conferences
     = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: 'Atom Feed'
     %link(href='http://fonts.googleapis.com/css?family=Squada+One' rel='stylesheet' type='text/css')
+    %link(href='http://fonts.googleapis.com/css?family=Exo+2:200' rel='stylesheet' type='text/css')
     %link(rel='stylesheet' href='/css/style.css' type='text/css')
     %link(rel='stylesheet' href='/css/mobile.css' type='text/css' media='only screen and (max-device-width: 480px)')
     %script(type='text/javascript' src='/js/jquery.js')
@@ -14,12 +15,25 @@
   %body
     #page
       %header
-        %h1
+        %h1.extruded
           %span Ruby
           %span Conferences
-        %p A simple list of Ruby conferences, published collaboratively with the Ruby community&ndash;#{link_to 'pull requests', 'https://github.com/ruby-conferences/ruby-conferences-site'} welcome! Get our filtered #{link_to 'event news', '/news/'} in the #{link_to 'feed', '/news/feed.xml'} or #{link_to '@rubyconferences', 'https://twitter.com/rubyconferences'}.
+        .details
+          :markdown
+            A simple list of Ruby conferences, published collaboratively with the Ruby community.    
+            Get our filtered [event news](/news/) in the [RSS feed](/news/feed.xml) or just follow [@rubyconferences](http://twitter.com/rubyconferences).
+
       = yield
+
       %footer
-        %p#byLine lovingly built by #{link_to 'Jon Allured', 'http://jonallured.com'}
-        %p #{link_to 'Feed', '/news/feed.xml'} | #{link_to '@rubyconferences', 'https://twitter.com/rubyconferences'}
-    = google_analytics_tag
+        :markdown
+
+          lovingly built by [Jon Allured](http://jonallured.com)
+
+          design &amp; markup by [Cameron Daigle](http://camerondaigle.com)
+
+          - [Feed](/news/feed.xml)
+          - [@rubyconferences](http://twitter.com/rubyconferences)
+          - [Github source](http://github.com/rubyconferences)
+
+      = google_analytics_tag
