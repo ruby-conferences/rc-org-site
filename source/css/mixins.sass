@@ -1,7 +1,6 @@
 = shadowy($steps, $side: #eaeaea, $base: #d2d2d2, $highlight: #fff)
   $output: 1px 1px 1px $highlight
-  $output: $output + ", 0px 1px 0px #{$side}"
-  @for $i from 2 through $steps - 1
+  @for $i from 1 through $steps
     $output: $output + ", #{$i*.5}px #{$i}px 0px #{$side}"
     $side: darken($side, .32%)
   @for $i from 1 through $steps
