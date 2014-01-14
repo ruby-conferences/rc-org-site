@@ -8,13 +8,3 @@
     $output: $output + ", #{$i*3}px #{$i*5}px #{$i*.85}px #{$base}"
     $base: transparentize($base, .09)
   text-shadow: unquote($output)
-
-= horizontal-list
-  li
-    display: inline-block
-    p
-      display: inline
-    + li:before
-      content: "•"
-      margin: 0 10px
-      display: inline-block

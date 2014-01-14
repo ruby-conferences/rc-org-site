@@ -18,7 +18,8 @@ body
   text-shadow: 1px 1px rgba(255,255,255,.5)
   font-size: 20px
   line-height: 160%
-  font-weight: 200
+  font-weight: 300
+  +font-smoothing
   .extruded
     font-family: 'Squada One', helvetica, sans-serif
     text-transform: uppercase
@@ -29,39 +30,87 @@ body
     +transition(color, text-shadow, top, left)
     +transition-duration(2s)
     letter-spacing: -1px
+    font-weight: normal
   &.initialized
     .extruded
       +shadowy(20)
       top: -20px
       left: -10px
       color: #fff
+  +mobile
+    font-size: 16px
 
 #page
   max-width: 1200px
   margin: 0 auto
   padding: 0 80px
+  +tablet
+    padding: 0 30px
+  +mobile
+    padding: 0 15px
 
 header
   padding: 80px 0
   h1
-    margin: 0 0 40px 0
+    margin: 0 0 40px -10px
     span
       position: relative
-      font-size: 300px
-      line-height: 190px
-      letter-spacing: -15px
+      font-size: 350px
+      line-height: 69%
+      letter-spacing: -26px
       display: block
+      +transition(font-size .2s, letter-spacing .2s, line-height .2s)
       + span
         font-size: 140px
-        line-height: 120px
-        letter-spacing: -5px
+        line-height: 69%
+        letter-spacing: -8px
+        margin-left: 10px
+  +tablet
+    padding: 60px 0
+    h1
+      margin: 0 0 30px -5px
+      span
+        font-size: 250px
+        letter-spacing: -18px
+        + span
+          font-size: 100px
+          letter-spacing: -5px
+          margin-left: 7px
+  +mobile
+    padding-top: 40px
+    h1
+      margin: 0 0 20px 0
+      span
+        font-size: 150px
+        letter-spacing: -7px
+        + span
+          font-size: 60px
+          letter-spacing: -2px
+          margin-left: 4px
 
 footer
   padding: 80px 0
   font-size: 16px
   ul
-    +horizontal-list
-
+    li
+      display: inline-block
+      line-height: 140%
+      p
+        display: inline
+      + li:before
+        content: "•"
+        margin: 0 10px
+        display: inline-block
+  +mobile
+    padding: 40px 0
+    p
+      margin: 0 0 10px 0
+    ul
+      li
+        display: block
+        margin: 0 0 10px 0
+        + li:before
+          display: none
 #home
   nav
     margin: 0 0 40px 10px
@@ -91,10 +140,48 @@ footer
       display: block
     dt
       font-size: 30px
+      line-height: 120%
     dd
       margin: 0 0 30px 0
       ul
-        +horizontal-list
+        li
+          display: inline-block
+          line-height: 140%
+          p
+            display: inline
+          + li:before
+            content: "•"
+            margin: 0 10px
+            display: inline-block
+  +tablet
+    nav
+      margin-bottom: 30px
+      ul
+        li
+          + li
+            margin-left: 20px
+    dl
+      dd
+        ul
+          li:last-of-type
+            display: block
+            &:before
+              display: none
+  +max-width(650)
+    nav
+      ul
+        li
+          display: block
+          + li
+            margin: 10px 0 0 0
+  +mobile
+    dl
+      dd
+        ul
+          li
+            display: block
+            + li:before
+              display: none
 
 #news
   h1
@@ -112,4 +199,17 @@ footer
       a
         font-size: 26px
     dd
-      margin: 0 0 30px 120px
+      padding: 0 0 30px 120px
+  +mobile
+    dl
+      dt
+        padding: 0 0 5px 0
+        time
+          position: static
+          left: auto
+          top: auto
+          display: block
+          font-size: 20px
+          margin: 0 0 5px 0
+      dd
+        padding-left: 0
