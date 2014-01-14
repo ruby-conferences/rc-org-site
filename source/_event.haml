@@ -1,6 +1,11 @@
-%dt= link_to event.name, event.url
+%dt
+  = link_to event.name, event.url
+  - if event.registration? || event.registration == false
+    .reg(data-date="#{event.registration}" data-noun="Registration" data-verb="opens")>
+  - if event.cfp
+    .cfp(data-date="#{event.cfp}" data-noun="CFP" data-verb="closes")>
 %dd
   %ul
-    %li #{event.dates}
-    %li= event.location
-    %li<>= link_to "@#{event.twitter}", "https://twitter.com/#{event.twitter}"
+    %li>= event.dates
+    %li>= event.location
+    %li>= link_to "@#{event.twitter}", "https://twitter.com/#{event.twitter}"
