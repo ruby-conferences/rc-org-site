@@ -12,7 +12,7 @@ a
     color: #ea1010
 
 body
-  background: #e3e3e3
+  background: #e5e5e5
   font-family: 'Exo 2', helvetica, sans-serif
   color: #999
   text-shadow: 1px 1px rgba(255,255,255,.5)
@@ -25,7 +25,7 @@ body
     text-transform: uppercase
     font-size: 70px
     position: relative
-    +shadowy(20)
+    +shadowy
     top: -20px
     left: -10px
     color: #fff
@@ -119,10 +119,10 @@ footer
           +transition-duration(.4s)
         &:hover a,
         &.active a
-          +shadowy(20, #f5ecec, $highlight: #fffafa)
+          +shadowy(#f4e0e0)
           color: #fff
         a:active
-          +shadowy(20, #fff0f0, $highlight: #fffafa)
+          +shadowy(#fff0f0, $highlight: #fffafa)
           color: #fffdfd
           +transition-duration(.1s)
   dl

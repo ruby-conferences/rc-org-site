@@ -1,9 +1,14 @@
-= shadowy($steps, $side: #eaeaea, $base: #cfcfcf, $highlight: #fff)
+= shadowy($side: #ddd, $highlight: #fff)
   $output: 1px 1px 1px $highlight
-  @for $i from 1 through $steps
+  @for $i from 1 through 20
     $output: $output + ", #{$i*.5}px #{$i}px 0px #{$side}"
-    $side: darken($side, .32%)
-  @for $i from 1 through $steps * 2
-    $output: $output + ", #{$i*1.5}px #{$i*2.5}px #{$i*.5}px #{$base}"
-    $base: transparentize($base, .05)
+    $side: darken($side, .7%)
+  $shadow1: #9c9c9c
+  @for $i from 1 through 5
+    $output: $output + ", #{$i*1+9}px #{$i*1.5+18}px #{$i*1.5}px #{$shadow1}"
+    $shadow1: transparentize($shadow1, .12)
+  $shadow2: #bbb
+  @for $i from 1 through 15
+    $output: $output + ", #{$i*2+9}px #{$i*3+18}px #{$i*1}px #{$shadow2}"
+    $shadow2: transparentize($shadow2, .09)
   text-shadow: unquote($output)
