@@ -15,9 +15,10 @@
   %body
     #page
       %header
-        %h1.extruded
-          %span Ruby&nbsp;
-          %span Conferences
+        %h1
+          = link_to "/", class: "extruded" do
+            %span Ruby&nbsp;
+            %span Conferences
 
       = yield
 
