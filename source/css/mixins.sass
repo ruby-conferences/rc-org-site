@@ -1,9 +1,9 @@
-= shadowy($steps, $side: #eaeaea, $base: #d2d2d2, $highlight: #fff)
+= shadowy($steps, $side: #eaeaea, $base: #cfcfcf, $highlight: #fff)
   $output: 1px 1px 1px $highlight
   @for $i from 1 through $steps
     $output: $output + ", #{$i*.5}px #{$i}px 0px #{$side}"
     $side: darken($side, .32%)
-  @for $i from 1 through $steps
-    $output: $output + ", #{$i*3}px #{$i*5}px #{$i*.85}px #{$base}"
-    $base: transparentize($base, .09)
+  @for $i from 1 through $steps * 2
+    $output: $output + ", #{$i*1.5}px #{$i*2.5}px #{$i*.5}px #{$base}"
+    $base: transparentize($base, .05)
   text-shadow: unquote($output)

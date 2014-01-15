@@ -1,5 +1,4 @@
 $ ->
-  $('body').addClass('initialized')
 
   $home =
     $el: $("#home")

@@ -3,8 +3,6 @@
 @import 'cask/cask'
 @import 'mixins'
 
-$base: #e5e5e5
-
 a
   text-decoration: none
   color: #444
@@ -14,7 +12,7 @@ a
     color: #ea1010
 
 body
-  background: #e9e9e9
+  background: #e3e3e3
   font-family: 'Exo 2', helvetica, sans-serif
   color: #999
   text-shadow: 1px 1px rgba(255,255,255,.5)
@@ -27,19 +25,12 @@ body
     text-transform: uppercase
     font-size: 70px
     position: relative
-    +shadowy(1, #e9e9e9, #e9e9e9, #e9e9e9)
-    color: #e9e9e9
-    +transition(color, text-shadow, top, left)
-    +transition-timing-function($ease-in-out-quart)
-    +transition-duration(2s)
+    +shadowy(20)
+    top: -20px
+    left: -10px
+    color: #fff
     letter-spacing: -2px
     font-weight: normal
-  &.initialized
-    .extruded
-      +shadowy(20)
-      top: -20px
-      left: -10px
-      color: #fff
   +mobile
     font-size: 16px
 
@@ -120,18 +111,19 @@ footer
     ul
       li
         display: inline-block
-        +transition(color, text-shadow)
         + li
           margin: 0 0 0 30px
+        a
+          +transition(color, text-shadow)
+          +transition-duration(.4s)
         &:hover a,
-        &.active a,
-        a:active
-          +shadowy(20, #f9ecec, $highlight: #fffafa)
+        &.active a
+          +shadowy(20, #f5ecec, $highlight: #fffafa)
           color: #fff
         a:active
-          +shadowy(20, #ffe5e5, $highlight: #fffafa)
-        &:hover a
-          +transition-duration(.4s)
+          +shadowy(20, #fff0f0, $highlight: #fffafa)
+          color: #fffdfd
+          +transition-duration(.1s)
   dl
     display: none
     &.active
