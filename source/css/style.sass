@@ -25,7 +25,7 @@ body
     text-transform: uppercase
     font-size: 70px
     position: relative
-    +shadowy
+    +extrude
     top: -20px
     left: -10px
     color: #fff
@@ -119,10 +119,10 @@ footer
           +transition-duration(.4s)
         &:hover a,
         &.active a
-          +shadowy(#f4e0e0)
+          +extrude(#f4e0e0)
           color: #fff
         a:active
-          +shadowy(#fff0f0, $highlight: #fffafa)
+          +extrude(#fff0f0)
           color: #fffdfd
           +transition-duration(.1s)
   dl

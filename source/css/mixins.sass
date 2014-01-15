@@ -1,5 +1,5 @@
-= shadowy($side: #ddd, $highlight: #fff)
-  $output: 1px 1px 1px $highlight
+= extrude($side: #ddd)
+  $output: 1px 1px 1px #fff
   @for $i from 1 through 20
     $output: $output + ", #{$i*.5}px #{$i}px 0px #{$side}"
     $side: darken($side, .7%)
