@@ -2,11 +2,11 @@
   %nav
     %ul
       %li
-        %a.extruded(href="#") #{data.current.count} Current
+        %a.extruded(href="#") #{data.current.count} Current&nbsp;
       %li
-        %a.extruded(href="#") #{data.tba.count} TBA
+        %a.extruded(href="#") #{data.tba.count} TBA&nbsp;
       %li
-        %a.extruded(href="#") #{data.past.count} Past
+        %a.extruded(href="#") #{data.past.count} Past&nbsp;
   %dl
     - data.current.each do |event|
       = partial :event, locals: { event: event }
