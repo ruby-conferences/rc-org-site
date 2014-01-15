@@ -129,8 +129,10 @@ footer
     &.active
       display: block
     dt
-      font-size: 30px
-      line-height: 120%
+      > a
+        font-size: 30px
+        line-height: 120%
+        margin-right: 10px
       .reg,
       .cfp
         font-size: 14px
@@ -138,10 +140,9 @@ footer
         display: inline-block
         line-height: 100%
         font-weight: 400
-        margin-left: 10px
       .reg + .cfp:before
         content: "•"
-        margin-right: 10px
+        margin: 0 10px
         color: #999
     dd
       margin: 0 0 30px 0
