@@ -3,12 +3,9 @@
   @for $i from 1 through 20
     $output: $output + ", #{$i*.5}px #{$i}px 0px #{$side}"
     $side: darken($side, .7%)
-  $shadow1: #9c9c9c
-  @for $i from 1 through 5
-    $output: $output + ", #{$i*1+9}px #{$i*1.5+18}px #{$i*1.5}px #{$shadow1}"
-    $shadow1: transparentize($shadow1, .12)
-  $shadow2: #bbb
-  @for $i from 1 through 15
+  $output: $output + ", 14px 26px 5px #a5a5a5"
+  $shadow2: #c0c0c0
+  @for $i from 1 through 20
     $output: $output + ", #{$i*2+9}px #{$i*3+18}px #{$i*1}px #{$shadow2}"
-    $shadow2: transparentize($shadow2, .09)
+    $shadow2: transparentize($shadow2, .085)
   text-shadow: unquote($output)
