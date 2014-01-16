@@ -109,6 +109,8 @@ footer
 #home
   nav
     margin: 0 0 40px 5px
+    +tablet
+      margin-bottom: 30px
     ul
       li
         display: inline-block
@@ -117,14 +119,24 @@ footer
         a
           +transition(color, text-shadow)
           +transition-duration(.4s)
+          &:active
+            +extrude(#fff0f0)
+            color: #fffdfd
+            +transition-duration(.1s)
         &:hover a,
         &.active a
           +extrude(#f4e0e0)
           color: #fff
-        a:active
-          +extrude(#fff0f0)
-          color: #fffdfd
-          +transition-duration(.1s)
+        +tablet
+          a
+            font-size: 60px
+        +max-width(650)
+          display: block
+          + li
+            margin: 10px 0 0 0
+        +mobile
+          + li:before
+            display: none
   dl
     display: none
     &.active
@@ -139,14 +151,20 @@ footer
         font-size: 14px
         color: #de5a5a
         display: inline-block
-        line-height: 100%
+        line-height: 140%
         font-weight: 400
+        +mobile
+          display: block
       .reg + .cfp:before
         content: "•"
         margin: 0 10px
         color: #999
+        +mobile
+          display: none
     dd
       margin: 0 0 30px 0
+      +mobile
+        margin-bottom: 20px
       ul
         li
           display: inline-block
@@ -157,34 +175,7 @@ footer
             content: "•"
             margin: 0 10px
             display: inline-block
-  +tablet
-    nav
-      margin-bottom: 30px
-      ul
-        li
-          + li
-            margin-left: 20px
-          a
-            font-size: 60px
-    dl
-      dd
-        ul
-          li:last-of-type
-            display: block
-            &:before
-              display: none
-  +max-width(650)
-    nav
-      ul
-        li
-          display: block
-          + li
-            margin: 10px 0 0 0
-  +mobile
-    dl
-      dd
-        ul
-          li
+          +tablet
             display: block
             + li:before
               display: none
