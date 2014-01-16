@@ -3,11 +3,12 @@ $ ->
   $home =
     $el: $("#home")
     setDateLanguage: ->
-      date = moment($(@).data('date'))
-      if date.isValid()
-        $(@).text("#{$(@).data('noun')} #{$(@).data('verb')} #{date.fromNow()}")
+      phrase = $(@).data('phrase')
+      if $(@).data('date')
+        date = moment($(@).data('date'))
+        $(@).text "#{phrase} #{date.fromNow()}"
       else
-        $(@).text("#{$(@).data('noun')} #{$(@).data('date')}")
+        $(@).text phrase
     toggleNav: (e) ->
       $li = $(e.target).closest('li')
       $li.addClass('active').siblings().removeClass('active')
@@ -15,7 +16,6 @@ $ ->
       false
     init: ->
       @$el.find('nav li a').click($.proxy(@toggleNav, @)).first().click()
-      $("[data-date]").each(@setDateLanguage)
-      $("[data-opens]")
+      $("[data-phrase]").each(@setDateLanguage)
 
   $home.init()

@@ -1,9 +1,12 @@
 %dt
   = link_to event.name, event.url
-  - if event.registration? || event.registration == false
-    .reg(data-date="#{event.registration}" data-noun="Registration" data-verb="opens")>
-  - if event.cfp
-    .cfp(data-date="#{event.cfp}" data-noun="CFP" data-verb="closes")>
+
+  - if event.reg_phrase?
+    .reg{ data: { date: event.reg_date, phrase: event.reg_phrase } }
+
+  - if event.cfp_phrase?
+    .cfp{ data: { date: event.cfp_date, phrase: event.cfp_phrase } }
+
 %dd
   %ul
     %li>= event.dates
