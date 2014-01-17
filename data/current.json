@@ -164,6 +164,12 @@
 		"twitter" : "frozenrails",
 		"registration": "TBD"
 	}, {
+		"name" : "Barcelona Ruby Conf",
+		"location" : "Barcelona, Spain",
+		"dates" : "September 12-14, 2014",
+		"url" : "http://www.baruco.org/",
+		"twitter" : "baruco"
+	}, {
 		"name" : "RailsIsrael",
 		"location" : "Tel Aviv, Israel",
 		"dates" : "November 12-13, 2014",

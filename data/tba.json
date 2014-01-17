@@ -60,12 +60,6 @@
 		"url" : "http://www.rubynation.org/",
 		"twitter" : "rubynation"
 	}, {
-		"name" : "Barcelona Ruby Conf",
-		"location" : "Barcelona, Spain",
-		"dates" : "dates unknown",
-		"url" : "http://www.baruco.org/",
-		"twitter" : "baruco"
-	}, {
 		"name" : "RubyConf Argentina",
 		"location" : "Buenos Aires, Argentina",
 		"dates" : "dates unknown",
