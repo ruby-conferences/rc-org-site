@@ -134,6 +134,12 @@
 		"twitter" : "btvrubyconf",
 		"registration": "TBD"
 	}, {
+		"name" : "Steel City Ruby",
+		"location" : "Pittsburgh, PA",
+		"dates" : "August 15-16, 2014",
+		"url" : "http://steelcityruby.org/",
+		"twitter" : "steelcityruby"
+	}, {
 		"name" : "Madison Ruby Conference",
 		"location" : "Madison, WI",
 		"dates" : "August 22-23, 2014",
