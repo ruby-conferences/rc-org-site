@@ -47,7 +47,8 @@
 		"location" : "Salt Lake City, UT",
 		"dates" : "March 20-21, 2014",
 		"url" : "http://mtnwestrubyconf.org/",
-		"twitter" : "mwrc"
+		"twitter" : "mwrc",
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "RubyConf India",
 		"location" : "Goa, India",
