@@ -1,4 +1,4 @@
-# Ruby Conferences
+# Ruby Events
 
 [rubyconferences.org][r] is a basic list of Ruby conferences, published
 collaboratively with the Ruby community. Filtered event news is available in the
@@ -10,14 +10,14 @@ collaboratively with the Ruby community. Filtered event news is available in the
 
 ## Eligible Conferences
 
-Focus is a goal of this project and as a result, only conferences that are
-specifically for Ruby are listed. That means that if a conference covers Ruby,
+Focus is a goal of this project and as a result, only events that are
+specifically for Ruby are listed. That means that if an event covers Ruby,
 but is not specifically for Rubyists, then it is left out.
 
-A good rule of thumb for whether a conference should be included is if its name
-includes either Ruby or Rails and how it describes itself. A conference that
-describes itself as a "Conference on Web Development" might be an awesome event,
-but it's probably not a Ruby conference.
+A good rule of thumb for whether an events should be included is if its name
+includes either Ruby or Rails and how it describes itself. An events that
+describes itself as a "Events on Web Development" might be an awesome event,
+but it's probably not a Ruby event.
 
 ## Filtered Event News
 
