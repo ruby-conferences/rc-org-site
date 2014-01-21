@@ -124,15 +124,13 @@
 		"location" : "Singapore",
 		"dates" : "June 26-27, 2014",
 		"url" : "http://reddotrubyconf.com/",
-		"twitter" : "reddotrubyconf",
-		"registration": "TBD"
+		"twitter" : "reddotrubyconf"
 	}, {
 		"name" : "Burlington Ruby Conference",
 		"location" : "Burlington, VT",
 		"dates" : "August 1-3, 2014",
 		"url" : "http://burlingtonrubyconference.com/",
-		"twitter" : "btvrubyconf",
-		"registration": "TBD"
+		"twitter" : "btvrubyconf"
 	}, {
 		"name" : "Steel City Ruby",
 		"location" : "Pittsburgh, PA",
@@ -161,8 +159,7 @@
 		"location" : "Helsinki, Finland",
 		"dates" : "September 11-12, 2014",
 		"url" : "http://frozenrails.eu/",
-		"twitter" : "frozenrails",
-		"registration": "TBD"
+		"twitter" : "frozenrails"
 	}, {
 		"name" : "Barcelona Ruby Conf",
 		"location" : "Barcelona, Spain",
