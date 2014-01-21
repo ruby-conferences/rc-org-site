@@ -167,6 +167,12 @@
 		"url" : "http://www.baruco.org/",
 		"twitter" : "baruco"
 	}, {
+		"name" : "Ruby DCamp",
+		"location" : "Prince William Forest Park, VA",
+		"dates" : "October 10-12, 2014",
+		"url" : "http://rubydcamp.org/",
+		"twitter" : "ruby_dcamp"
+	}, {
 		"name" : "RailsIsrael",
 		"location" : "Tel Aviv, Israel",
 		"dates" : "November 12-13, 2014",
