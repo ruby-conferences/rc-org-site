@@ -1,4 +1,6 @@
 page "*", layout: :default
+page "news/*", layout: :post
+page "news/index.html", layout: :default
 
 ###
 # Blog settings
