@@ -1,6 +1,7 @@
 page "*", layout: :default
 page "news/*", layout: :post
 page "news/index.html", layout: :default
+page "news/feed.xml", layout: false
 
 ###
 # Blog settings
@@ -32,8 +33,6 @@ activate :blog do |blog|
   # blog.per_page = 10
   # blog.page_link = "page/{num}"
 end
-
-page "/news/feed.xml", layout: false
 
 ###
 # Compass
