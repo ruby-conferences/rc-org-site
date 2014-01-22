@@ -1,3 +1,5 @@
+page "*", layout: :default
+
 ###
 # Blog settings
 ###
