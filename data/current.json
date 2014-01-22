@@ -12,8 +12,7 @@
 		"dates" : "February 8, 2014",
 		"url" : "http://larubyconf.com/",
 		"twitter" : "larubyconf",
-		"reg_phrase" : "Early Bird registration closes",
-		"reg_date": "January 21, 2014"
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "Ruby Conf Australia",
 		"location" : "Sydney, Australia",
