@@ -71,11 +71,5 @@
 		"dates" : "dates unknown",
 		"url" : "http://rulu.eu",
 		"twitter" : "rulu"
-	}, {
-		"name" : "RubyConf Uruguay",
-		"location" : "Montevideo, Uruguay",
-		"dates" : "dates unknown",
-		"url" : "http://rubyconfuruguay.org/",
-		"twitter" : "rubyconfuruguay"
 	}
 ]

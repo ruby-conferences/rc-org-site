@@ -110,6 +110,14 @@
 		"twitter" : "scotrubyconf",
 		"reg_phrase" : "Registration open"
 	}, {
+		"name" : "RubyConf Uruguay",
+		"location" : "Montevideo, Uruguay",
+		"dates" : "May 23-24, 2014",
+		"url" : "http://www.rubyconfuruguay.org/",
+		"twitter" : "rubyconfuruguay",
+		"cfp_phrase" : "CFP closes",
+		"cfp_date" : "March 15, 2014"
+	}, {
 		"name" : "EuRuKo",
 		"location" : "Kiev, Ukraine",
 		"dates" : "June 20-21, 2014",
