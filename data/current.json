@@ -70,12 +70,6 @@
 		"twitter" : "ancientcityruby",
 		"reg_phrase" : "Registration is open"
 	}, {
-		"name" : "RubyKaigi",
-		"location" : "Tokyo, Japan",
-		"dates" : "April 18-20",
-		"url" : "http://rubykaigi.org",
-		"twitter" : "rubykaigi"
-	}, {
 		"name" : "RailsConf",
 		"location" : "Chicago, IL",
 		"dates" : "April 22-25, 2014",
@@ -173,6 +167,12 @@
 		"dates" : "September 12-14, 2014",
 		"url" : "http://www.baruco.org/",
 		"twitter" : "baruco"
+	}, {
+		"name" : "RubyKaigi",
+		"location" : "Tokyo, Japan",
+		"dates" : "September 18-20",
+		"url" : "http://rubykaigi.org",
+		"twitter" : "rubykaigi"
 	}, {
 		"name" : "Ruby DCamp",
 		"location" : "Prince William Forest Park, VA",
