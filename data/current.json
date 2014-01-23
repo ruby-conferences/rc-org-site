@@ -194,5 +194,12 @@
 		"twitter" : "fogelmania",
 		"reg_phrase" : "Super Early Bird registration open",
 		"cfp_phrase": "CFP open"
-	}
+	}, {
+                "name" : "RailsClub",
+                "location" : "Moscow, Russia",
+                "dates" : "September 27, 2014",
+                "url" : "http://railsclub.ru/",
+                "twitter" : "railsclub_ru",
+                "reg_phrase" : "SuperRegistration is open"
+        }
 ]
