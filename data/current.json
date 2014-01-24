@@ -110,6 +110,13 @@
 		"twitter" : "scotrubyconf",
 		"reg_phrase" : "Registration open"
 	}, {
+		"name" : "La Conf",
+		"location" : "Paris, France",
+		"dates" : "May 22-23, 2014",
+		"url" : "http://2014.la-conf.org/",
+		"twitter" : "la_conf",
+		"reg_phrase" : "Registration open"
+	}, {
 		"name" : "RubyConf Uruguay",
 		"location" : "Montevideo, Uruguay",
 		"dates" : "May 23-24, 2014",
