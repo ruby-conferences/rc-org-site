@@ -76,6 +76,14 @@
 		"twitter" : "ancientcityruby",
 		"reg_phrase" : "Registration is open"
 	}, {
+		"name" : "iOSonRailsConf",
+		"location" : "Alushta, Crimea",
+		"dates" : "April 17-19, 2014",
+		"url" : "http://iosonrailsconf.eu/",
+		"twitter" : "iosonrailsconf",
+		"cfp_phrase" : "CFP closes",
+		"cfp_date" : "February 20, 2014"
+	}, {
 		"name" : "RailsConf",
 		"location" : "Chicago, IL",
 		"dates" : "April 22-25, 2014",
