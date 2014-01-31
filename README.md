@@ -49,3 +49,10 @@ If you have news, please follow the coventions you see in the
 `source/news/posts` folder including filename and title. No biggie if you're not
 sure - I'll be glad to tweak anything that looks weird, I'm a little picky
 anyway. :)
+
+## License
+
+This project uses the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0
+International License][l].
+
+[l]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US.
