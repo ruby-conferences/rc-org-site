@@ -52,7 +52,11 @@ anyway. :)
 
 ## License
 
-This project uses the Creative Commons [Attribution-NonCommercial-ShareAlike 4.0
-International License][l].
+The design of the site is copyright Cameron Daigle.
+
+The contents of the `source/news/posts` folder are copyright Jon Allured.
+
+All other original work uses the Creative Commons
+[Attribution-NonCommercial-ShareAlike 4.0 International License][l].
 
 [l]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US.
