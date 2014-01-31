@@ -12,3 +12,5 @@
     %li>= event.dates
     %li>= event.location
     %li>= link_to "@#{event.twitter}", "https://twitter.com/#{event.twitter}"
+    - if event.video_link?
+      %li>= link_to 'Event Videos', event.video_link
