@@ -39,8 +39,7 @@
 		"dates" : "March 6-7, 2014",
 		"url" : "http://onales.com/",
 		"twitter" : "rbonales",
-		"cfp_phrase" : "CFP closes",
-		"cfp_date" : "January 31, 2014"
+		"cfp_phrase" : "CFP closed"
 	}, {
 		"name" : "wroc_love.rb",
 		"location" : "Wrocław, Poland",
@@ -98,8 +97,7 @@
 		"dates" : "April 25-26, 2014",
 		"url" : "http://rubyconf.tw/",
 		"twitter" : "rubytaiwan",
-		"cfp_phrase" : "CFP closes",
-		"cfp_date": "January 28, 2014"
+		"cfp_phrase" : "CFP closed"
 	}, {
 		"name" : "Abril Pro Ruby",
 		"location" : "Porto de Galinhas, Brazil",
@@ -108,8 +106,7 @@
 		"twitter" : "abrilproruby",
 		"reg_phrase" : "Second Batch registration closes",
 		"reg_date" : "February 28, 2014",
-		"cfp_phrase" : "CFP closes",
-		"cfp_date" : "January 31, 2014"
+		"cfp_phrase" : "CFP closed"
 	}, {
 		"name" : "Scottish Ruby Conf",
 		"location" : "Perthshire, Scotland",

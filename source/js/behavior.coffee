@@ -5,7 +5,7 @@ $ ->
     setDateLanguage: ->
       phrase = $(@).data('phrase')
       if $(@).data('date')
-        date = moment($(@).data('date'))
+        date = moment($(@).data('date')).add('days', 1)
         $(@).text "#{phrase} #{date.fromNow()}"
       else
         $(@).text phrase
