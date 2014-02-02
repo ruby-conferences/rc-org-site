@@ -38,7 +38,9 @@
 		"location" : "Bend, OR",
 		"dates" : "March 6-7, 2014",
 		"url" : "http://onales.com/",
-		"twitter" : "rbonales"
+		"twitter" : "rbonales",
+		"reg_phrase" : "Early Bird registration closes",
+		"reg_date" : "February 15, 2014"
 	}, {
 		"name" : "wroc_love.rb",
 		"location" : "Wrocław, Poland",
