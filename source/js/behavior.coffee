@@ -2,13 +2,24 @@ $ ->
 
   $home =
     $el: $("#home")
-    setDateLanguage: ->
-      phrase = $(@).data('phrase')
-      if $(@).data('date')
-        date = moment($(@).data('date')).add('days', 1)
-        $(@).text "#{phrase} #{date.fromNow()}"
-      else
-        $(@).text phrase
+    calloutText: (dateData, phraseData)->
+      date = if dateData then moment(dateData) else false
+      return phraseData unless date
+
+      now = moment()
+      switch
+        when date.isSame(now, 'day')
+          "#{phraseData} today"
+        when date.isSame(now.add(1, 'day'), 'day')
+          "#{phraseData} tomorrow"
+        when date.isAfter(now)
+          "#{phraseData} #{date.endOf('day').fromNow()}"
+
+    addCallout: ->
+      dateData   = $(@).data().date
+      phraseData = $(@).data().phrase
+
+      $(@).text $home.calloutText(dateData, phraseData)
     toggleNav: (e) ->
       $li = $(e.target).closest('li')
       $li.addClass('active').siblings().removeClass('active')
@@ -16,6 +27,6 @@ $ ->
       false
     init: ->
       @$el.find('nav li a').click($.proxy(@toggleNav, @)).first().click()
-      $("[data-phrase]").each(@setDateLanguage)
+      $("[data-phrase]").each(@addCallout)
 
   $home.init()
