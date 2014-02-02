@@ -1,6 +1,6 @@
 # Ruby Conferences
 
-[rubyconferences.org][r] is a basic list of Ruby conferences, published
+[RubyConferences.org][r] is a simple list of Ruby conferences, published
 collaboratively with the Ruby community. Filtered event news is available in the
 [feed][f] and [@rubyconferences][t].
 
@@ -47,8 +47,7 @@ have an update for those things, just change the JSON and send a PR.
 
 If you have news, please follow the coventions you see in the
 `source/news/posts` folder including filename and title. No biggie if you're not
-sure - I'll be glad to tweak anything that looks weird, I'm a little picky
-anyway. :)
+sure - this can be tweaked easily enough.
 
 ## License
 
