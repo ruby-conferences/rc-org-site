@@ -127,8 +127,7 @@
 		"dates" : "June 20-21, 2014",
 		"url" : "http://www.euruko2014.org/",
 		"twitter" : "euruko",
-		"reg_phrase": "Registration opens",
-		"reg_date": "February 4, 2014",
+		"reg_phrase": "Registration is open",
 		"cfp_phrase": "CFP closes",
 		"cfp_date": "March 31, 2014"
 	}, {
@@ -144,7 +143,8 @@
 		"url" : "http://brightonruby.com/",
 		"twitter" : "brightonruby",
 		"reg_phrase" : "Registration is open",
-		"cfp_phrase": "CFP is open"
+		"cfp_phrase": "CFP closes",
+		"cfp_date": "April 30, 2014"
 	}, {
 		"name" : "Burlington Ruby Conference",
 		"location" : "Burlington, VT",
