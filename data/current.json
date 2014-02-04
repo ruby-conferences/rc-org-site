@@ -1,12 +1,5 @@
 [
 	{
-		"name" : "Brighton Ruby Conf",
-		"location" : "Brighton, UK",
-		"dates" : "July 21, 2014",
-		"url" : "http://brightonruby.com/",
-		"twitter" : "brightonruby",
-		"reg_phrase" : "Registration is open"
-	}, {
 		"name" : "Rubyfuza",
 		"location" : "Cape Town, South Africa",
 		"dates" : "February 6-8, 2014",
@@ -144,6 +137,14 @@
 		"dates" : "June 26-27, 2014",
 		"url" : "http://reddotrubyconf.com/",
 		"twitter" : "reddotrubyconf"
+	}, {
+		"name" : "Brighton Ruby Conf",
+		"location" : "Brighton, UK",
+		"dates" : "July 21, 2014",
+		"url" : "http://brightonruby.com/",
+		"twitter" : "brightonruby",
+		"reg_phrase" : "Registration is open",
+		"cfp_phrase": "CFP is open"
 	}, {
 		"name" : "Burlington Ruby Conference",
 		"location" : "Burlington, VT",
