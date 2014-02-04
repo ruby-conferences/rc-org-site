@@ -1,5 +1,12 @@
 [
 	{
+		"name" : "Brighton Ruby Conf",
+		"location" : "Brighton, UK",
+		"dates" : "July 21, 2014",
+		"url" : "http://brightonruby.com/",
+		"twitter" : "brightonruby",
+		"reg_phrase" : "Registration is open"
+	}, {
 		"name" : "Rubyfuza",
 		"location" : "Cape Town, South Africa",
 		"dates" : "February 6-8, 2014",
