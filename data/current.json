@@ -183,7 +183,9 @@
 		"location" : "Helsinki, Finland",
 		"dates" : "September 11-12, 2014",
 		"url" : "http://frozenrails.eu/",
-		"twitter" : "frozenrails"
+		"twitter" : "frozenrails",
+		"cfp_phrase": "CFP closes",
+		"cfp_date": "March 31, 2014"
 	}, {
 		"name" : "Barcelona Ruby Conf",
 		"location" : "Barcelona, Spain",
