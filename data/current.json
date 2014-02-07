@@ -122,6 +122,14 @@
 		"cfp_phrase" : "CFP closes",
 		"cfp_date" : "March 15, 2014"
 	}, {
+		"name" : "RubyMotion #inspect 2014",
+		"location" : "San Francisco, CA",
+		"dates" : "May 28-29, 2014",
+		"url" : "http://www.rubymotion.com/conference/2014/",
+		"twitter" : "rubymotion",
+		"cfp_phrase" : "CFP closes",
+		"cfp_date" : "March 31, 2014"
+	}, {
 		"name" : "RubyNation",
 		"location" : "Washington, DC",
 		"dates" : "June 6-7, 2014",
