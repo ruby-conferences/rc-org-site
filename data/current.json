@@ -122,6 +122,12 @@
 		"cfp_phrase" : "CFP closes",
 		"cfp_date" : "March 15, 2014"
 	}, {
+		"name" : "RubyNation",
+		"location" : "Washington, DC",
+		"dates" : "June 6-7, 2014",
+		"url" : "http://www.rubynation.org/",
+		"twitter" : "rubynation"
+	}, {
 		"name" : "EuRuKo",
 		"location" : "Kiev, Ukraine",
 		"dates" : "June 20-21, 2014",
