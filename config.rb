@@ -23,7 +23,8 @@ activate :blog do |blog|
   # blog.year_link = "{year}.html"
   # blog.month_link = "{year}/{month}.html"
   # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
+  blog.default_extension = '.md'
+  blog.new_article_template = 'source/_new_post.erb'
 
   # blog.tag_template = "tag.html"
   # blog.calendar_template = "calendar.html"
