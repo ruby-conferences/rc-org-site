@@ -1,19 +1,5 @@
 [
 	{
-		"name" : "Rubyfuza",
-		"location" : "Cape Town, South Africa",
-		"dates" : "February 6-8, 2014",
-		"url" : "http://rubyfuza.org/",
-		"twitter" : "rubyfuza",
-		"reg_phrase" : "Registration is open"
-	}, {
-		"name" : "Los Angeles Ruby Conference",
-		"location" : "Los Angeles, CA",
-		"dates" : "February 8, 2014",
-		"url" : "http://larubyconf.com/",
-		"twitter" : "larubyconf",
-		"reg_phrase" : "Registration is open"
-	}, {
 		"name" : "Ruby Conf Australia",
 		"location" : "Sydney, Australia",
 		"dates" : "February 20-21, 2014",

@@ -6,5 +6,17 @@
 		"url" : "http://www.gardencityruby.org/",
 		"twitter" : "gardencityrb",
 		"video_link" : "http://www.confreaks.com/events/gardencityruby"
+	}, {
+		"name" : "Rubyfuza",
+		"location" : "Cape Town, South Africa",
+		"dates" : "February 6-8, 2014",
+		"url" : "http://rubyfuza.org/",
+		"twitter" : "rubyfuza"
+	}, {
+		"name" : "Los Angeles Ruby Conference",
+		"location" : "Los Angeles, CA",
+		"dates" : "February 8, 2014",
+		"url" : "http://larubyconf.com/",
+		"twitter" : "larubyconf"
 	}
 ]
