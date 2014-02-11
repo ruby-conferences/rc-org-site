@@ -135,7 +135,9 @@
 		"location" : "New York, NY",
 		"dates" : "June 21, 2014",
 		"url" : "http://goruco.com/",
-		"twitter" : "goruco"
+		"twitter" : "goruco",
+		"cfp_phrase": "CFP closes",
+		"cfp_date": "March 14, 2014"
 	}, {
 		"name" : "RedDotRubyConf",
 		"location" : "Singapore",
