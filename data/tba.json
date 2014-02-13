@@ -1,22 +1,10 @@
 [
-	{
-		"name" : "RubyConf",
-		"location" : "location unknown",
-		"dates" : "dates unknown",
-		"url" : "http://rubyconf.org/",
-		"twitter" : "rubyconf"
-	}, {
+ {
 		"name" : "Wicked Good Ruby",
 		"location" : "Boston, MA",
 		"dates" : "dates unknown",
 		"url" : "http://wickedgoodruby.com/",
 		"twitter" : "wickedgoodruby"
-	}, {
-		"name" : "Rocky Mountain Ruby Conference",
-		"location" : "Boulder, CO",
-		"dates" : "dates unknown",
-		"url" : "http://rockymtnruby.com/",
-		"twitter" : "rockymtnruby"
 	}, {
 		"name" : "LoneStarRuby",
 		"location" : "Austin, TX",
