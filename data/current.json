@@ -221,6 +221,12 @@
 		"url" : "http://gogaruco.com/",
 		"twitter" : "gogaruco"
 	}, {
+		"name" : "Rocky Mountain Ruby Conference",
+		"location" : "Boulder, CO",
+		"dates" : "September 25-26, 2014",
+		"url" : "http://rockymtnruby.com/",
+		"twitter" : "rockymtnruby"
+	}, {
 		"name" : "RailsClub",
 		"location" : "Moscow, Russia",
 		"dates" : "September 27, 2014",
@@ -241,5 +247,11 @@
 		"twitter" : "fogelmania",
 		"reg_phrase" : "Super Early Bird registration open",
 		"cfp_phrase": "CFP open"
+	}, {
+		"name" : "RubyConf",
+		"location" : "San Diego, CA",
+		"dates" : "November 17-19",
+		"url" : "http://rubyconf.org/",
+		"twitter" : "rubyconf"
 	}
 ]
