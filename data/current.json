@@ -31,7 +31,8 @@
 		"location" : "Wrocław, Poland",
 		"dates" : "March 14-16, 2014",
 		"url" : "http://wrocloverb.com/",
-		"twitter" : "wrocloverb"
+		"twitter" : "wrocloverb",
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "MountainWest RubyConf",
 		"location" : "Salt Lake City, UT",
@@ -120,7 +121,8 @@
 		"location" : "Washington, DC",
 		"dates" : "June 6-7, 2014",
 		"url" : "http://www.rubynation.org/",
-		"twitter" : "rubynation"
+		"twitter" : "rubynation",
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "EuRuKo",
 		"location" : "Kiev, Ukraine",
