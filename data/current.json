@@ -146,6 +146,9 @@
 		"dates" : "June 26-27, 2014",
 		"url" : "http://reddotrubyconf.com/",
 		"twitter" : "reddotrubyconf"
+		"reg_phrase" : "Registration is open",
+		"cfp_phrase": "CFP closes",
+		"cfp_date": "April 13, 2014"
 	}, {
 		"name" : "Brighton Ruby Conf",
 		"location" : "Brighton, UK",
