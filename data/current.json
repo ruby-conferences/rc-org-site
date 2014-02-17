@@ -25,8 +25,7 @@
 		"dates" : "March 6-7, 2014",
 		"url" : "https://ruby.onales.com/",
 		"twitter" : "rbonales",
-		"reg_phrase" : "Early Bird registration closes",
-		"reg_date" : "February 15, 2014"
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "wroc_love.rb",
 		"location" : "Wrocław, Poland",
@@ -67,8 +66,7 @@
 		"dates" : "April 18-20, 2014",
 		"url" : "http://iosonrailsconf.eu/",
 		"twitter" : "iosonrailsconf",
-		"reg_phrase" : "Early Bird registration closes",
-		"reg_date" : "February 16, 2014",
+		"reg_phrase" : "Registration is open",
 		"cfp_phrase" : "CFP closes",
 		"cfp_date" : "February 20, 2014"
 	}, {
