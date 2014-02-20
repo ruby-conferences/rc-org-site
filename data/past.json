@@ -18,5 +18,17 @@
 		"dates" : "February 8, 2014",
 		"url" : "http://larubyconf.com/",
 		"twitter" : "larubyconf"
+	}, {
+		"name" : "Ruby Conf Australia",
+		"location" : "Sydney, Australia",
+		"dates" : "February 20-21, 2014",
+		"url" : "http://www.rubyconf.org.au/",
+		"twitter" : "rubyconf_au"
+	}, {
+		"name" : "Big Ruby",
+		"location" : "Dallas, TX",
+		"dates" : "February 20-21, 2014",
+		"url" : "http://www.bigrubyconf.com/",
+		"twitter" : "bigrubyconf"
 	}
 ]

@@ -1,19 +1,5 @@
 [
 	{
-		"name" : "Ruby Conf Australia",
-		"location" : "Sydney, Australia",
-		"dates" : "February 20-21, 2014",
-		"url" : "http://www.rubyconf.org.au/",
-		"twitter" : "rubyconf_au",
-		"reg_phrase" : "Registration open"
-	}, {
-		"name" : "Big Ruby",
-		"location" : "Dallas, TX",
-		"dates" : "February 20-21, 2014",
-		"url" : "http://www.bigrubyconf.com/",
-		"twitter" : "bigrubyconf",
-		"reg_phrase" : "Registration is open"
-	}, {
 		"name" : "RubySauna",
 		"location" : "Oulu, Finland",
 		"dates" : "February 27, 2014",
