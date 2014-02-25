@@ -232,6 +232,14 @@
 		"cfp_phrase": "CFP closes",
 		"cfp_date": "May 16, 2014"
 	}, {
+		"name" : "Nickel City Ruby Conference",
+		"location" : "Buffalo, NY",
+		"dates" : "October 3-4, 2014",
+		"url" : "http://nickelcityruby.com/",
+		"twitter" : "nickelcityruby",
+		"cfp_phrase": "CFP closes",
+		"cfp_date": "Junly 3, 2014"
+	}, {
 		"name" : "Ruby DCamp",
 		"location" : "Prince William Forest Park, VA",
 		"dates" : "October 10-12, 2014",
