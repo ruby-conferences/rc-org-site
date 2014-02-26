@@ -1,8 +1,7 @@
 ---
 title: WindyCityRails CFP Closes Soon
-published: false
 ---
 
-The WindyCityRails [call for proprosals][cfp] closes March 05th.
+The WindyCityRails [call for proprosals][cfp] closes March 5th.
 
-[cfp]: LINK
+[cfp]: https://wisdomgroup.wufoo.com/forms/windycityrails-2014-speaking-proposals/
