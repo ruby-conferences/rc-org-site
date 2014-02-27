@@ -30,5 +30,11 @@
 		"dates" : "February 20-21, 2014",
 		"url" : "http://www.bigrubyconf.com/",
 		"twitter" : "bigrubyconf"
+	}, {
+		"name" : "RubySauna",
+		"location" : "Oulu, Finland",
+		"dates" : "February 27, 2014",
+		"url" : "http://www.rubysauna.org/",
+		"twitter" : "rubysauna"
 	}
 ]
