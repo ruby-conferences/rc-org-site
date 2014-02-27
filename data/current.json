@@ -110,7 +110,9 @@
 		"dates" : "June 6-7, 2014",
 		"url" : "http://www.rubynation.org/",
 		"twitter" : "rubynation",
-		"reg_phrase" : "Registration is open"
+		"reg_phrase" : "Registration is open",
+		"cfp_phrase" : "CFP closes",
+		"cfp_date" : "March 31, 2014"
 	}, {
 		"name" : "EuRuKo",
 		"location" : "Kiev, Ukraine",
