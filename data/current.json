@@ -46,18 +46,14 @@
 		"dates" : "April 18-20, 2014",
 		"url" : "http://iosonrailsconf.eu/",
 		"twitter" : "iosonrailsconf",
-		"reg_phrase" : "Registration is open",
-		"cfp_phrase" : "CFP closes",
-		"cfp_date" : "February 20, 2014"
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "RailsConf",
 		"location" : "Chicago, IL",
 		"dates" : "April 22-25, 2014",
 		"url" : "http://www.railsconf.com/",
 		"twitter" : "railsconf",
-		"reg_phrase" : "Registration is open",
-		"cfp_phrase" : "CFP closes",
-		"cfp_date" : "February 21, 2014"
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "RubyConf Taiwan",
 		"location" : "Taipei, Taiwan",
@@ -70,8 +66,8 @@
 		"dates" : "April 26, 2014",
 		"url" : "http://abrilproruby.com/",
 		"twitter" : "abrilproruby",
-		"reg_phrase" : "Second Batch registration closes",
-		"reg_date" : "February 28, 2014"
+		"reg_phrase" : "Reduced registration pricing ends",
+		"reg_date" : "March 31, 2014"
 	}, {
 		"name" : "Scottish Ruby Conf",
 		"location" : "Perthshire, Scotland",
@@ -85,8 +81,8 @@
 		"dates" : "May 23-24, 2014",
 		"url" : "http://www.rubyconfuruguay.org/",
 		"twitter" : "rubyconfuruguay",
-		"reg_phrase" : "Early bird registration closes",
-		"reg_date" : "March 11, 2014",
+		"reg_phrase" : "Early bird registration ends",
+		"reg_date" : "March 23, 2014",
 		"cfp_phrase" : "CFP closes",
 		"cfp_date" : "March 15, 2014"
 	}, {
@@ -139,9 +135,7 @@
 		"dates" : "July 21, 2014",
 		"url" : "http://brightonruby.com/",
 		"twitter" : "brightonruby",
-		"reg_phrase" : "Registration is open",
-		"cfp_phrase": "CFP closes",
-		"cfp_date": "April 30, 2014"
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "Burlington Ruby Conference",
 		"location" : "Burlington, VT",
@@ -157,12 +151,12 @@
 		"url" : "http://steelcityruby.org/",
 		"twitter" : "steelcityruby"
 	}, {
-		"name" : "Madison Ruby Conference",
+		"name" : "Madison+ Ruby",
 		"location" : "Madison, WI",
 		"dates" : "August 22-23, 2014",
-		"url" : "http://madisonruby.org/",
+		"url" : "http://madisonpl.us/ruby/",
 		"twitter" : "madisonruby",
-		"reg_phrase": "Very Early Bird registration open",
+		"reg_phrase": "Early Bird registration open",
 		"cfp_phrase": "CFP closes",
 		"cfp_date": "May 9, 2014"
 	}, {
@@ -177,10 +171,8 @@
 		"dates" : "September 4-5, 2014",
 		"url" : "http://www.windycityrails.org/",
 		"twitter" : "windycityrails",
-		"reg_phrase": "Super Early Bird registration closes",
-		"reg_date": "March 5, 2014",
-		"cfp_phrase": "CFP closes",
-		"cfp_date": "March 5, 2014"
+		"reg_phrase": "Early Bird registration closes",
+		"reg_date": "July 2, 2014"
 	}, {
 		"name" : "Frozen Rails",
 		"location" : "Helsinki, Finland",
@@ -219,8 +211,7 @@
 		"location" : "Moscow, Russia",
 		"dates" : "September 27, 2014",
 		"url" : "http://railsclub.ru/",
-		"twitter" : "railsclub_ru",
-		"reg_phrase" : "Super Registration is open"
+		"twitter" : "railsclub_ru"
 	}, {
 		"name" : "ArrrrCamp",
 		"location" : "Ghent, Belgium",
@@ -236,7 +227,7 @@
 		"url" : "http://nickelcityruby.com/",
 		"twitter" : "nickelcityruby",
 		"cfp_phrase": "CFP closes",
-		"cfp_date": "Junly 3, 2014"
+		"cfp_date": "July 3, 2014"
 	}, {
 		"name" : "Ruby DCamp",
 		"location" : "Prince William Forest Park, VA",
@@ -246,10 +237,10 @@
 	}, {
 		"name" : "RailsIsrael",
 		"location" : "Tel Aviv, Israel",
-		"dates" : "November 5-7, 2014",
+		"dates" : "November 4-5, 2014",
 		"url" : "http://railsisrael2014.events.co.il/",
 		"twitter" : "fogelmania",
-		"reg_phrase" : "Super Early Bird registration open",
+		"reg_phrase" : "Early Bird registration open",
 		"cfp_phrase": "CFP open"
 	}, {
 		"name" : "RubyConf",
