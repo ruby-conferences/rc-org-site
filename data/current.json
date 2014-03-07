@@ -1,12 +1,5 @@
 [
 	{
-		"name" : "Ruby on Ales",
-		"location" : "Bend, OR",
-		"dates" : "March 6-7, 2014",
-		"url" : "https://ruby.onales.com/",
-		"twitter" : "rbonales",
-		"reg_phrase" : "Registration is open"
-	}, {
 		"name" : "wroc_love.rb",
 		"location" : "Wrocław, Poland",
 		"dates" : "March 14-16, 2014",
