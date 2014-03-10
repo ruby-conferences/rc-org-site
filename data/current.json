@@ -52,7 +52,8 @@
 		"location" : "Taipei, Taiwan",
 		"dates" : "April 25-26, 2014",
 		"url" : "http://rubyconf.tw/",
-		"twitter" : "rubytaiwan"
+		"twitter" : "rubytaiwan",
+		"reg_phrase" : "Registration is open"
 	}, {
 		"name" : "Abril Pro Ruby",
 		"location" : "Porto de Galinhas, Brazil",
