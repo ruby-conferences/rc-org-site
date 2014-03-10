@@ -12,6 +12,12 @@
 		"url" : "http://www.rubymidwest.com/",
 		"twitter" : "rubymidwest"
 	}, {
+		"name" : "iOSonRailsConf",
+		"location" : "Alushta, Crimea",
+		"dates" : "dates unknown",
+		"url" : "http://iosonrailsconf.eu/",
+		"twitter" : "iosonrailsconf"
+	}, {
 		"name" : "Cascadia Ruby",
 		"location" : "Portland, OR",
 		"dates" : "dates unknown",
