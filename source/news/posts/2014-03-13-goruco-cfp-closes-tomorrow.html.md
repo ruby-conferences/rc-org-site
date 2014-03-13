@@ -1,8 +1,7 @@
 ---
 title: GoRuCo CFP Closes Tomorrow
-published: false
 ---
 
 The GoRuCo [call for proprosals][cfp] closes March 14th.
 
-[cfp]: LINK
+[cfp]: https://goruco.wufoo.com/forms/goruco-2014-call-for-proposals/
