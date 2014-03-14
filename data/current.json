@@ -150,7 +150,9 @@
 		"location" : "São Paulo, Brazil",
 		"dates" : "August 28-29, 2014",
 		"url" : "http://www.rubyconf.com.br/",
-		"twitter" : "rubyconfbr"
+		"twitter" : "rubyconfbr",
+		"cfp_phrase": "CFP closes",
+		"cfp_date": "April 30, 2014"
 	}, {
 		"name" : "WindyCityRails",
 		"location" : "Chicago, IL",
