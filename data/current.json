@@ -132,11 +132,11 @@
 		"cfp_date": "March 17, 2014"
 	}, {
 		"name" : "eurucamp",
-		"location" : "Berlin",
+		"location" : "Berlin, Germany",
 		"dates" : "August 1-3, 2014",
 		"url" : "http://2014.eurucamp.org",
 		"twitter" : "eurucamp",
-		"cfp_phrase" : "CFP open, seeking mentors",
+		"cfp_phrase" : "CFP closes",
 		"cfp_date": "May 1, 2014"
 	}, {
 		"name" : "Steel City Ruby",
