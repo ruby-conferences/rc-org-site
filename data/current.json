@@ -61,8 +61,7 @@
 		"dates" : "May 23-24, 2014",
 		"url" : "http://www.rubyconfuruguay.org/",
 		"twitter" : "rubyconfuruguay",
-		"cfp_phrase" : "CFP closes",
-		"cfp_date" : "March 15, 2014"
+		"reg_phrase" : "Registration open"
 	}, {
 		"name" : "RubyMotion #inspect",
 		"location" : "San Francisco, CA",
@@ -95,9 +94,7 @@
 		"location" : "New York, NY",
 		"dates" : "June 21, 2014",
 		"url" : "http://goruco.com/",
-		"twitter" : "goruco",
-		"cfp_phrase": "CFP closes",
-		"cfp_date": "March 14, 2014"
+		"twitter" : "goruco"
 	}, {
 		"name" : "RedDotRubyConf",
 		"location" : "Singapore",
