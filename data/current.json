@@ -143,7 +143,9 @@
 		"location" : "Pittsburgh, PA",
 		"dates" : "August 15-16, 2014",
 		"url" : "http://steelcityruby.org/",
-		"twitter" : "steelcityruby"
+		"twitter" : "steelcityruby",
+		"cfp_phrase" : "CFP closes",
+		"cfp_date": "April 19, 2014"
 	}, {
 		"name" : "Madison+ Ruby",
 		"location" : "Madison, WI",
