@@ -1,12 +1,5 @@
 [
 	{
-		"name" : "wroc_love.rb",
-		"location" : "Wrocław, Poland",
-		"dates" : "March 14-16, 2014",
-		"url" : "http://wrocloverb.com/",
-		"twitter" : "wrocloverb",
-		"reg_phrase" : "Registration is open"
-	}, {
 		"name" : "MountainWest RubyConf",
 		"location" : "Salt Lake City, UT",
 		"dates" : "March 20-21, 2014",
