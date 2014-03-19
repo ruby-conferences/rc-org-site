@@ -81,6 +81,16 @@
 		"cfp_phrase" : "CFP closes",
 		"cfp_date" : "March 31, 2014"
 	}, {
+		"name" : "Ruby Lugdunum",
+		"location" : "Lyon, France",
+		"dates" : "June 19-20, 2014",
+		"url" : "http://rulu.eu",
+		"twitter" : "rulu",
+		"reg_phrase" : "Early bird registration closes",
+		"cfp_date" : "March 31, 2014",
+		"cfp_phrase" : "CFP closes",
+		"cfp_date" : "March 31, 2014"
+	}, {
 		"name" : "EuRuKo",
 		"location" : "Kiev, Ukraine",
 		"dates" : "June 20-21, 2014",

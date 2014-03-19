@@ -29,11 +29,5 @@
 		"dates" : "dates unknown",
 		"url" : "http://rubyconfargentina.org/",
 		"twitter" : "rubyconfar"
-	}, {
-		"name" : "Ruby Lugdunum",
-		"location" : "Lyon, France",
-		"dates" : "dates unknown",
-		"url" : "http://rulu.eu",
-		"twitter" : "rulu"
 	}
 ]
