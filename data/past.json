@@ -23,7 +23,8 @@
 		"location" : "Sydney, Australia",
 		"dates" : "February 20-21, 2014",
 		"url" : "http://www.rubyconf.org.au/",
-		"twitter" : "rubyconf_au"
+		"twitter" : "rubyconf_au",
+		"video_link" : "http://vimeo.com/channels/699773"
 	}, {
 		"name" : "Big Ruby",
 		"location" : "Dallas, TX",
