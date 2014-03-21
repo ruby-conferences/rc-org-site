@@ -224,6 +224,13 @@
 		"url" : "http://rubydcamp.org/",
 		"twitter" : "ruby_dcamp"
 	}, {
+		"name" : "Wicked Good Ruby",
+		"location" : "Boston, MA",
+		"dates" : "October 11-12, 2014",
+		"url" : "http://wickedgoodruby.com/",
+		"twitter" : "wickedgoodruby",
+		"reg_phrase" : "Very Early Bird registration open"
+	}, {
 		"name" : "RailsIsrael",
 		"location" : "Tel Aviv, Israel",
 		"dates" : "November 4-5, 2014",
