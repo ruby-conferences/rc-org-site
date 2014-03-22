@@ -1,0 +1,23 @@
+- name: Ruby Midwest
+  location: Kansas City, MO
+  dates: dates unknown
+  url: http://www.rubymidwest.com/
+  twitter: rubymidwest
+
+- name: iOSonRailsConf
+  location: Alushta, Crimea
+  dates: dates unknown
+  url: http://iosonrailsconf.eu/
+  twitter: iosonrailsconf
+
+- name: Cascadia Ruby
+  location: Portland, OR
+  dates: dates unknown
+  url: http://cascadiaruby.com/
+  twitter: cascadiaruby
+
+- name: RubyConf Argentina
+  location: Buenos Aires, Argentina
+  dates: dates unknown
+  url: http://rubyconfargentina.org/
+  twitter: rubyconfar

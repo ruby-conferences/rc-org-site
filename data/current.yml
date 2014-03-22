@@ -1,0 +1,244 @@
+- name: MountainWest RubyConf
+  location: Salt Lake City, UT
+  dates: "March 20-21, 2014"
+  url: http://mtnwestrubyconf.org/
+  twitter: mwrc
+
+- name: RubyConf India
+  location: Goa, India
+  dates: "March 22-23, 2014"
+  url: http://rubyconfindia.org/
+  twitter: rubyconfindia
+  reg_phrase: Registration is open
+
+- name: RubyConf Philippines
+  location: Manila, Philippines
+  dates: "March 28-29, 2014"
+  url: http://rubyconf.ph/
+  twitter: rubyconfph
+  reg_phrase: Registration is open
+
+- name: Ancient City Ruby
+  location: St. Augustine, FL
+  dates: "April 3-4, 2014"
+  url: http://www.ancientcityruby.com/
+  twitter: ancientcityruby
+  reg_phrase: Registration is open
+
+- name: RailsConf
+  location: Chicago, IL
+  dates: "April 22-25, 2014"
+  url: http://www.railsconf.com/
+  twitter: railsconf
+  reg_phrase: Registration is open
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  dates: "April 25-26, 2014"
+  url: http://rubyconf.tw/
+  twitter: rubytaiwan
+  reg_phrase: Registration is open
+
+- name: Abril Pro Ruby
+  location: Porto de Galinhas, Brazil
+  dates: "April 26, 2014"
+  url: http://abrilproruby.com/
+  twitter: abrilproruby
+  reg_phrase: Reduced registration pricing ends
+  reg_date: "March 31, 2014"
+
+- name: Scottish Ruby Conf
+  location: Perthshire, Scotland
+  dates: "May 12-13, 2014"
+  url: http://scottishrubyconference.com
+  twitter: scotrubyconf
+  reg_phrase: Registration open
+
+- name: RubyConf Uruguay
+  location: Montevideo, Uruguay
+  dates: "May 23-24, 2014"
+  url: http://www.rubyconfuruguay.org/
+  twitter: rubyconfuruguay
+  reg_phrase: Registration open
+
+- name: "RubyMotion #inspect"
+  location: San Francisco, CA
+  dates: "May 28-29, 2014"
+  url: http://www.rubymotion.com/conference/2014/
+  twitter: rubymotion
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "March 31, 2014"
+
+- name: RubyNation
+  location: Washington, DC
+  dates: "June 6-7, 2014"
+  url: http://www.rubynation.org/
+  twitter: rubynation
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "March 31, 2014"
+
+- name: Ruby Lugdunum
+  location: Lyon, France
+  dates: "June 19-20, 2014"
+  url: http://rulu.eu
+  twitter: rulu
+  reg_phrase: Early Bird registration closes
+  reg_date: "March 31, 2014"
+  cfp_phrase: CFP closes
+  cfp_date: "March 31, 2014"
+
+- name: GoRuCo
+  location: New York, NY
+  dates: "June 21, 2014"
+  url: http://goruco.com/
+  twitter: goruco
+
+- name: RedDotRubyConf
+  location: Singapore
+  dates: "June 26-27, 2014"
+  url: http://reddotrubyconf.com/
+  twitter: reddotrubyconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "April 13, 2014"
+
+- name: Brighton Ruby Conf
+  location: Brighton, UK
+  dates: "July 21, 2014"
+  url: http://brightonruby.com/
+  twitter: brightonruby
+  reg_phrase: Registration is open
+
+- name: Burlington Ruby Conference
+  location: Burlington, VT
+  dates: "August 1-3, 2014"
+  url: http://burlingtonrubyconference.com/
+  twitter: btvrubyconf
+  reg_phrase: Early Bird registration open
+  cfp_phrase: CFP closes
+  cfp_date: "March 17, 2014"
+
+- name: eurucamp
+  location: Berlin, Germany
+  dates: "August 1-3, 2014"
+  url: http://2014.eurucamp.org
+  twitter: eurucamp
+  cfp_phrase: CFP closes
+  cfp_date: "May 1, 2014"
+
+- name: Steel City Ruby
+  location: Pittsburgh, PA
+  dates: "August 15-16, 2014"
+  url: http://steelcityruby.org/
+  twitter: steelcityruby
+  cfp_phrase: CFP closes
+  cfp_date: "April 19, 2014"
+
+- name: Madison+ Ruby
+  location: Madison, WI
+  dates: "August 22-23, 2014"
+  url: http://madisonpl.us/ruby/
+  twitter: madisonruby
+  reg_phrase: Early Bird registration open
+  cfp_phrase: CFP closes
+  cfp_date: "May 9, 2014"
+
+- name: RubyConf Brazil
+  location: São Paulo, Brazil
+  dates: "August 28-29, 2014"
+  url: http://www.rubyconf.com.br/
+  twitter: rubyconfbr
+  cfp_phrase: CFP closes
+  cfp_date: "April 30, 2014"
+
+- name: WindyCityRails
+  location: Chicago, IL
+  dates: "September 4-5, 2014"
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
+  reg_phrase: Early Bird registration closes
+  reg_date: "July 2, 2014"
+
+- name: Frozen Rails
+  location: Helsinki, Finland
+  dates: "September 11-12, 2014"
+  url: http://frozenrails.eu/
+  twitter: frozenrails
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "March 31, 2014"
+
+- name: Barcelona Ruby Conf
+  location: Barcelona, Spain
+  dates: "September 12-14, 2014"
+  url: http://www.baruco.org/
+  twitter: baruco
+
+- name: RubyKaigi
+  location: Tokyo, Japan
+  dates: "September 18-20"
+  url: http://rubykaigi.org
+  twitter: rubykaigi
+
+- name: Golden Gate Ruby Conference
+  location: San Francisco, CA
+  dates: "September 19-20, 2014"
+  url: http://gogaruco.com/
+  twitter: gogaruco
+
+- name: Rocky Mountain Ruby Conference
+  location: Boulder, CO
+  dates: "September 25-26, 2014"
+  url: http://rockymtnruby.com/
+  twitter: rockymtnruby
+
+- name: RailsClub
+  location: Moscow, Russia
+  dates: "September 27, 2014"
+  url: http://railsclub.ru/
+  twitter: railsclub_ru
+
+- name: ArrrrCamp
+  location: Ghent, Belgium
+  dates: "October 2-3, 2014"
+  url: http://arrrrcamp.be/
+  twitter: arrrrcamp
+  cfp_phrase: CFP closes
+  cfp_date: "May 16, 2014"
+
+- name: Nickel City Ruby Conference
+  location: Buffalo, NY
+  dates: "October 3-4, 2014"
+  url: http://nickelcityruby.com/
+  twitter: nickelcityruby
+  cfp_phrase: CFP closes
+  cfp_date: "July 3, 2014"
+
+- name: Ruby DCamp
+  location: Prince William Forest Park, VA
+  dates: "October 10-12, 2014"
+  url: http://rubydcamp.org/
+  twitter: ruby_dcamp
+
+- name: Wicked Good Ruby
+  location: Boston, MA
+  dates: "October 11-12, 2014"
+  url: http://wickedgoodruby.com/
+  twitter: wickedgoodruby
+  reg_phrase: Very Early Bird registration open
+
+- name: RailsIsrael
+  location: Tel Aviv, Israel
+  dates: "November 4-5, 2014"
+  url: http://railsisrael2014.events.co.il/
+  twitter: fogelmania
+  reg_phrase: Early Bird registration open
+  cfp_phrase: CFP open
+
+- name: RubyConf
+  location: San Diego, CA
+  dates: "November 17-19, 2014"
+  url: http://rubyconf.org/
+  twitter: rubyconf
