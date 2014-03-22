@@ -47,3 +47,15 @@
   dates: "March 14-16, 2014"
   url: http://wrocloverb.com/
   twitter: wrocloverb
+
+- name: MountainWest RubyConf
+  location: Salt Lake City, UT
+  dates: "March 20-21, 2014"
+  url: http://mtnwestrubyconf.org/
+  twitter: mwrc
+
+- name: RubyConf India
+  location: Goa, India
+  dates: "March 22-23, 2014"
+  url: http://rubyconfindia.org/
+  twitter: rubyconfindia
