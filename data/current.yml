@@ -18,13 +18,6 @@
   twitter: railsconf
   reg_phrase: Registration is open
 
-- name: RubyConf Taiwan
-  location: Taipei, Taiwan
-  dates: "April 25-26, 2014"
-  url: http://rubyconf.tw/
-  twitter: rubytaiwan
-  reg_phrase: Registration is open
-
 - name: Abril Pro Ruby
   location: Porto de Galinhas, Brazil
   dates: "April 24-27, 2014"
@@ -32,6 +25,13 @@
   twitter: abrilproruby
   reg_phrase: Reduced registration pricing ends
   reg_date: "March 31, 2014"
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  dates: "April 25-26, 2014"
+  url: http://rubyconf.tw/
+  twitter: rubytaiwan
+  reg_phrase: Registration is open
 
 - name: Scottish Ruby Conf
   location: Perthshire, Scotland
