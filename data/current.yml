@@ -207,7 +207,9 @@
   dates: "October 11-12, 2014"
   url: http://wickedgoodruby.com/
   twitter: wickedgoodruby
-  reg_phrase: Very Early Bird registration open
+  reg_phrase: Early Bird registration open
+  cfp_phrase: CFP closes
+  cfp_date: "July 1, 2014"
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
