@@ -40,6 +40,15 @@
   twitter: rubymotion
   reg_phrase: Registration is open
 
+- name: Ruby Conference Kiev
+  location: Kiev, Ukraine
+  dates: "May 31-June 1, 2014"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  reg_phrase: Early bird registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "April 30, 2014"
+
 - name: RubyNation
   location: Washington, DC
   dates: "June 6-7, 2014"
