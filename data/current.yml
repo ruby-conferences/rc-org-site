@@ -143,9 +143,12 @@
 
 - name: Barcelona Ruby Conf
   location: Barcelona, Spain
-  dates: "September 12-14, 2014"
+  dates: "September 11-13, 2014"
   url: http://www.baruco.org/
   twitter: baruco
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "May 11, 2014"
 
 - name: RubyKaigi
   location: Tokyo, Japan
