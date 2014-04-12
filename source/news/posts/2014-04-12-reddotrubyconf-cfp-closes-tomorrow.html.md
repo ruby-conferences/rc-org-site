@@ -1,6 +1,5 @@
 ---
 title: RedDotRubyConf CFP Closes Tomorrow
-published: false
 ---
 
 The RedDotRubyConf [call for proprosals][cfp] closes April 13th.
