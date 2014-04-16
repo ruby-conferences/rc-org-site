@@ -3,7 +3,6 @@
   dates: "April 22-25, 2014"
   url: http://www.railsconf.com/
   twitter: railsconf
-  reg_phrase: Registration is open
 
 - name: Abril Pro Ruby
   location: Porto de Galinhas, Brazil
@@ -61,8 +60,6 @@
   dates: "June 19-20, 2014"
   url: http://rulu.eu
   twitter: rulu
-  reg_phrase: Early Bird registration closes
-  reg_date: "April 7, 2014"
 
 - name: GoRuCo
   location: New York, NY
@@ -76,8 +73,6 @@
   url: http://reddotrubyconf.com/
   twitter: reddotrubyconf
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "April 13, 2014"
 
 - name: Brighton Ruby Conf
   location: Brighton, UK
@@ -91,7 +86,7 @@
   dates: "August 1-3, 2014"
   url: http://burlingtonrubyconference.com/
   twitter: btvrubyconf
-  reg_phrase: Early Bird registration open
+  reg_phrase: Registration is open
 
 - name: eurucamp
   location: Berlin, Germany
@@ -101,13 +96,21 @@
   cfp_phrase: CFP closes
   cfp_date: "May 1, 2014"
 
+- name: Cascadia Ruby
+  location: Portland, OR
+  dates: "August 11-12, 2014"
+  url: http://cascadiaruby.com/
+  twitter: cascadiaruby
+  reg_phrase: Early bird registration closes
+  reg_date: "June 30, 2014"
+  cfp_phrase: CFP closes
+  cfp_date: "May 18, 2014"
+
 - name: Steel City Ruby
   location: Pittsburgh, PA
   dates: "August 15-16, 2014"
   url: http://steelcityruby.org/
   twitter: steelcityruby
-  cfp_phrase: CFP closes
-  cfp_date: "April 19, 2014"
 
 - name: Madison+ Ruby
   location: Madison, WI
@@ -167,6 +170,9 @@
   dates: "September 25-26, 2014"
   url: http://rockymtnruby.com/
   twitter: rockymtnruby
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "June 15, 2014"
 
 - name: RailsClub
   location: Moscow, Russia
