@@ -72,3 +72,21 @@
   dates: "April 3-4, 2014"
   url: http://www.ancientcityruby.com/
   twitter: ancientcityruby
+
+- name: RailsConf
+  location: Chicago, IL
+  dates: "April 22-25, 2014"
+  url: http://www.railsconf.com/
+  twitter: railsconf
+
+- name: Abril Pro Ruby
+  location: Porto de Galinhas, Brazil
+  dates: "April 24-27, 2014"
+  url: http://abrilproruby.com/
+  twitter: abrilproruby
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  dates: "April 25-26, 2014"
+  url: http://rubyconf.tw/
+  twitter: rubytaiwan
