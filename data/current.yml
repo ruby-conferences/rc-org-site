@@ -177,6 +177,12 @@
   cfp_phrase: CFP closes
   cfp_date: "July 3, 2014"
 
+- name: JRubyConf EU
+  location: Potsdam, Germany
+  dates: "August 1, 2014"
+  url: http://jrubyconf.eu/
+  twitter: jrubyconfeu
+
 - name: Ruby DCamp
   location: Prince William Forest Park, VA
   dates: "October 10-12, 2014"
@@ -211,3 +217,15 @@
   dates: "January 27-31, 2015"
   url: http://www.rubycaribe.com/
   twitter: rubycaribe
+
+- name: RubyConf Philippines
+  location: Boracay Island, Philippines
+  dates: "March 27-28, 2015"
+  url: http://rubyconf.ph/
+  twitter: rubyconfph
+
+- name: RailsConf
+  location: Atlanta, GA
+  dates: "April 21-23, 2015"
+  url: http://www.railsconf.com/
+  twitter: railsconf
