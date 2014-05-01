@@ -1,8 +1,7 @@
 ---
 title: eurucamp CFP Closes Tomorrow
-published: false
 ---
 
-The eurucamp [call for proprosals][cfp] closes May 01th.
+The eurucamp [call for proprosals][cfp] closes May 1st.
 
-[cfp]: LINK
+[cfp]: http://cfp.eurucamp.org/
