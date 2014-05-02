@@ -1,8 +1,8 @@
 ---
-title: Madison Ruby CFP Closes Tomorrow
+title: Madison+ Ruby CFP Closes Tomorrow
 published: false
 ---
 
-The Madison Ruby [call for proprosals][cfp] closes May 09th.
+The Madison+ Ruby [call for proprosals][cfp] closes May 9th.
 
-[cfp]: LINK
+[cfp]: https://sapling.wufoo.com/forms/madison-ruby-call-for-proposals/
