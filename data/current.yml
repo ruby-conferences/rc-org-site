@@ -182,6 +182,9 @@
   dates: "August 1, 2014"
   url: http://jrubyconf.eu/
   twitter: jrubyconfeu
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "May 24, 2014"
 
 - name: Ruby DCamp
   location: Prince William Forest Park, VA
