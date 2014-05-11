@@ -54,6 +54,14 @@
   twitter: reddotrubyconf
   reg_phrase: Registration is open
 
+- name: Deccan Ruby Conference
+  location: Pune, India
+  dates: "July 19, 2014"
+  url: http://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+  cfp_phrase: CFP closes
+  cfp_date: "5th June, 2014"
+
 - name: Brighton Ruby Conf
   location: Brighton, UK
   dates: "July 21, 2014"
@@ -75,6 +83,15 @@
   twitter: eurucamp
   cfp_phrase: CFP closes
   cfp_date: "May 1, 2014"
+
+- name: JRubyConf EU
+  location: Potsdam, Germany
+  dates: "August 1, 2014"
+  url: http://jrubyconf.eu/
+  twitter: jrubyconfeu
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "May 24, 2014"
 
 - name: Cascadia Ruby
   location: Portland, OR
@@ -177,15 +194,6 @@
   cfp_phrase: CFP closes
   cfp_date: "July 3, 2014"
 
-- name: JRubyConf EU
-  location: Potsdam, Germany
-  dates: "August 1, 2014"
-  url: http://jrubyconf.eu/
-  twitter: jrubyconfeu
-  reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "May 24, 2014"
-
 - name: Ruby DCamp
   location: Prince William Forest Park, VA
   dates: "October 10-12, 2014"
@@ -232,11 +240,3 @@
   dates: "April 21-23, 2015"
   url: http://www.railsconf.com/
   twitter: railsconf
-
-- name: Deccan Ruby Conference
-  location: Pune, India
-  dates: "July 19, 2014"
-  url: http://www.deccanrubyconf.org/
-  twitter: deccanrubyconf
-  cfp_phrase: CFP closes
-  cfp_date: "5th June, 2014"
