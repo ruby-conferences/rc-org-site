@@ -240,3 +240,11 @@
   dates: "April 21-23, 2015"
   url: http://www.railsconf.com/
   twitter: railsconf
+
+- name: RedFrogConf
+  location: Sankt Augustin, Germany
+  dates: "August 23-24, 2014"
+  url: http://ruby.froscon.org/
+  twitter: redfrogconf
+  cfp_phrase: CFP closes
+  cfp_date: "June 30, 2014"
