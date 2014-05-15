@@ -94,3 +94,9 @@
   dates: "April 25-26, 2014"
   url: http://rubyconf.tw/
   twitter: rubytaiwan
+
+- name: Scottish Ruby Conf
+  location: Perthshire, Scotland
+  dates: "May 12-13, 2014"
+  url: http://scottishrubyconference.com
+  twitter: scotrubyconf
