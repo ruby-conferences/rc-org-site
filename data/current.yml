@@ -217,6 +217,14 @@
   cfp_phrase: CFP closes
   cfp_date: "July 1, 2014"
 
+- name: RubyConf Portugal
+  location: Braga, PT
+  dates: "October 13-14, 2014"
+  url: http://rubyconf.pt/
+  twitter: rubyconfpt
+  cfp_phrase: CFP closes
+  cfp_date: "July 2, 2014"
+
 - name: RailsIsrael
   location: Tel Aviv, Israel
   dates: "November 4-5, 2014"
