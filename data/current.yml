@@ -18,8 +18,6 @@
   url: http://rubyc.eu/
   twitter: rubyc_eu
   reg_phrase: Early bird registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "April 30, 2014"
 
 - name: RubyNation
   location: Washington, DC
@@ -74,8 +72,6 @@
   dates: "August 1-3, 2014"
   url: http://2014.eurucamp.org
   twitter: eurucamp
-  cfp_phrase: CFP closes
-  cfp_date: "May 1, 2014"
 
 - name: JRubyConf EU
   location: Potsdam, Germany
@@ -108,8 +104,6 @@
   url: http://madisonpl.us/ruby/
   twitter: madisonruby
   reg_phrase: Early Bird registration open
-  cfp_phrase: CFP closes
-  cfp_date: "May 9, 2014"
 
 - name: RedFrogConf
   location: Sankt Augustin, Germany
@@ -124,8 +118,6 @@
   dates: "August 28-29, 2014"
   url: http://www.rubyconf.com.br/
   twitter: rubyconfbr
-  cfp_phrase: CFP closes
-  cfp_date: "April 30, 2014"
 
 - name: WindyCityRails
   location: Chicago, IL
@@ -148,8 +140,6 @@
   url: http://www.baruco.org/
   twitter: baruco
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "May 11, 2014"
 
 - name: RubyKaigi
   location: Tokyo, Japan
