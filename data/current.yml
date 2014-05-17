@@ -143,7 +143,7 @@
 
 - name: RubyKaigi
   location: Tokyo, Japan
-  dates: "September 18-20"
+  dates: "September 18-20, 2014"
   url: http://rubykaigi.org
   twitter: rubykaigi
   cfp_phrase: CFP closes
@@ -241,6 +241,12 @@
   dates: "March 27-28, 2015"
   url: http://rubyconf.ph/
   twitter: rubyconfph
+
+- name: RubyKaigi
+  location: Tokyo, Japan
+  dates: "April 9-11, 2015"
+  url: http://rubykaigi.org
+  twitter: rubykaigi
 
 - name: RailsConf
   location: Atlanta, GA
