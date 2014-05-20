@@ -106,7 +106,7 @@
   dates: "August 22-23, 2014"
   url: http://madisonpl.us/ruby/
   twitter: madisonruby
-  reg_phrase: Early Bird registration open
+  reg_phrase: Early bird registration open
 
 - name: RedFrogConf
   location: Sankt Augustin, Germany
@@ -127,7 +127,7 @@
   dates: "September 4-5, 2014"
   url: http://www.windycityrails.org/
   twitter: windycityrails
-  reg_phrase: Early Bird registration closes
+  reg_phrase: Early bird registration closes
   reg_date: "July 2, 2014"
 
 - name: Frozen Rails
@@ -210,6 +210,7 @@
   dates: "October 13-14, 2014"
   url: http://rubyconf.pt/
   twitter: rubyconfpt
+  reg_phrase: Early bird registration open
   cfp_phrase: CFP closes
   cfp_date: "July 2, 2014"
 
@@ -218,7 +219,7 @@
   dates: "November 4-5, 2014"
   url: http://railsisrael2014.events.co.il/
   twitter: fogelmania
-  reg_phrase: Early Bird registration open
+  reg_phrase: Early bird registration open
   cfp_phrase: CFP open
 
 - name: RubyConf
