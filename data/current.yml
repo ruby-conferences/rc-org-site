@@ -1,10 +1,3 @@
-- name: RubyConf Uruguay
-  location: Montevideo, Uruguay
-  dates: "May 23-24, 2014"
-  url: http://www.rubyconfuruguay.org/
-  twitter: rubyconfuruguay
-  reg_phrase: Registration open
-
 - name: "RubyMotion #inspect"
   location: San Francisco, CA
   dates: "May 28-29, 2014"
@@ -82,8 +75,6 @@
   url: http://jrubyconf.eu/
   twitter: jrubyconfeu
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "May 24, 2014"
 
 - name: Cascadia Ruby
   location: Portland, OR
@@ -92,8 +83,6 @@
   twitter: cascadiaruby
   reg_phrase: Early bird registration closes
   reg_date: "June 30, 2014"
-  cfp_phrase: CFP closes
-  cfp_date: "May 18, 2014"
 
 - name: Steel City Ruby
   location: Pittsburgh, PA
@@ -182,8 +171,6 @@
   url: http://arrrrcamp.be/
   twitter: arrrrcamp
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "May 16, 2014"
 
 - name: Nickel City Ruby Conference
   location: Buffalo, NY
