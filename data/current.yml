@@ -3,14 +3,12 @@
   dates: "May 31-June 1, 2014"
   url: http://rubyc.eu/
   twitter: rubyc_eu
-  reg_phrase: Registration is open
 
 - name: RubyNation
   location: Washington, DC
   dates: "June 6-7, 2014"
   url: http://www.rubynation.org/
   twitter: rubynation
-  reg_phrase: Registration is open
 
 - name: Ruby Lugdunum
   location: Lyon, France
@@ -103,6 +101,7 @@
   dates: "August 28-29, 2014"
   url: http://www.rubyconf.com.br/
   twitter: rubyconfbr
+  reg_phrase: Registration is open
 
 - name: WindyCityRails
   location: Chicago, IL
@@ -184,6 +183,7 @@
   dates: "October 11-12, 2014"
   url: http://wickedgoodruby.com/
   twitter: wickedgoodruby
+  reg_phrase: Registration is open
   cfp_phrase: CFP closes
   cfp_date: "July 1, 2014"
 
@@ -192,7 +192,6 @@
   dates: "October 13-14, 2014"
   url: http://rubyconf.pt/
   twitter: rubyconfpt
-  reg_phrase: Early bird registration open
   cfp_phrase: CFP closes
   cfp_date: "July 2, 2014"
 
@@ -202,7 +201,7 @@
   url: http://railsisrael2014.events.co.il/
   twitter: fogelmania
   reg_phrase: Early bird registration open
-  cfp_phrase: CFP open
+  cfp_phrase: CFP is open
 
 - name: RubyConf
   location: San Diego, CA
