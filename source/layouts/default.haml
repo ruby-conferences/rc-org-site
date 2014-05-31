@@ -21,6 +21,11 @@
           = link_to "/", class: "extruded" do
             %span Ruby&nbsp;
             %span Conferences
+      %nav
+        %ul
+          = nav_item('/', 'Current')
+          = nav_item('/past/', 'Past')
+          = nav_item('/news/', 'News')
 
       = yield
 

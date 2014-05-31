@@ -102,3 +102,10 @@ configure :build do
     ga.tracking_id = 'UA-3137727-6'
   end
 end
+
+helpers do
+  def nav_item(path, text)
+    class_name = path == current_page.url ? 'active' : ''
+    content_tag(:li, class: class_name) { link_to text, path }
+  end
+end

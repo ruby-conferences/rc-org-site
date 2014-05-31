@@ -1,12 +1,4 @@
 %article#past
-  %nav
-    %ul
-      %li
-        %a(href="/") Current
-      %li.active
-        %a(href="/past/") Past
-      %li
-        %a(href="/news/") News
   %dl
     - data.past.each do |event|
       = partial :event, locals: { event: event }
