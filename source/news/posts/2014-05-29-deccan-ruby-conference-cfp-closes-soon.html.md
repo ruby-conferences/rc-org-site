@@ -1,8 +1,7 @@
 ---
 title: Deccan Ruby Conference CFP Closes Soon
-published: false
 ---
 
-The Deccan Ruby Conference [call for proprosals][cfp] closes June 05th.
+The Deccan Ruby Conference [call for proprosals][cfp] closes June 5th.
 
-[cfp]: LINK
+[cfp]: https://deccanrubyconf.busyconf.com/proposals/new
