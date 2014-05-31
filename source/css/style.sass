@@ -106,41 +106,26 @@ header
         margin: 0 0 10px 0
         + li:before
           display: none
-#home
-  nav
-    margin: 0 0 40px 5px
-    +tablet
-      margin-bottom: 30px
-    ul
-      li
+
+nav
+  margin: 0 0 40px
+  +tablet
+    margin-bottom: 30px
+  ul
+    li
+      display: inline-block
+      font-size: 48px
+      &.active a
+        color: #ea1010
+      + li:before
+        color: #444
+        content: "•"
+        margin: 0 20px
         display: inline-block
-        + li
-          margin: 0 0 0 20px
-        &:hover a,
-        &.active a
-          +extrude(#f4e0e0)
-          color: #fff
-        a
-          +transition(color, text-shadow)
-          +transition-duration(.4s)
-          &:active
-            +extrude(#fff0f0)
-            color: #fffdfd
-            +transition-duration(.1s)
-        +tablet
-          a
-            font-size: 60px
-        +max-width(650)
-          display: block
-          + li
-            margin: 10px 0 0 0
-        +mobile
-          + li:before
-            display: none
+
+#home,
+#past
   dl
-    display: none
-    &.active
-      display: block
     dt
       > a
         font-size: 30px
@@ -181,8 +166,6 @@ header
               display: none
 
 #news
-  h1
-    margin: 0 0 40px 5px
   dl
     dt
       position: relative

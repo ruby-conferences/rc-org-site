@@ -2,7 +2,14 @@
 pageable: true
 ---
 %article#news
-  %h1.extruded Event News
+  %nav
+    %ul
+      %li
+        %a(href="/") Current
+      %li
+        %a(href="/past/") Past
+      %li.active
+        %a(href="/news/") News
 
   %dl
     - page_articles.each do |article|
