@@ -1,9 +1,3 @@
-- name: Ruby Conference Kiev
-  location: Kiev, Ukraine
-  dates: "May 31-June 1, 2014"
-  url: http://rubyc.eu/
-  twitter: rubyc_eu
-
 - name: RubyNation
   location: Washington, DC
   dates: "June 6-7, 2014"
