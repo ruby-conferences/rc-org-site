@@ -138,6 +138,12 @@
   cfp_phrase: CFP closes
   cfp_date: "June 15, 2014"
 
+- name: Rails Pacific
+  location: Taipei, Taiwan
+  dates: "September 26-27, 2014"
+  url: http://railspacific.com
+  twitter: railspacific
+
 - name: RailsClub
   location: Moscow, Russia
   dates: "September 27, 2014"
