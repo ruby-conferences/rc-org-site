@@ -3,7 +3,6 @@
   dates: "June 19-20, 2014"
   url: http://rulu.eu
   twitter: rulu
-  reg_phrase: Registration is open
 
 - name: GoRuCo
   location: New York, NY
@@ -24,8 +23,6 @@
   url: http://www.deccanrubyconf.org/
   twitter: deccanrubyconf
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "June 5, 2014"
 
 - name: Brighton Ruby Conf
   location: Brighton, UK
@@ -118,16 +115,12 @@
   dates: "September 18-20, 2014"
   url: http://rubykaigi.org
   twitter: rubykaigi
-  cfp_phrase: CFP closes
-  cfp_date: "June 11, 2014"
 
 - name: Golden Gate Ruby Conference
   location: San Francisco, CA
   dates: "September 19-20, 2014"
   url: http://gogaruco.com/
   twitter: gogaruco
-  cfp_phrase: CFP closes
-  cfp_date: "June 8, 2014"
 
 - name: Rocky Mountain Ruby Conference
   location: Boulder, CO
@@ -135,8 +128,6 @@
   url: http://rockymtnruby.com/
   twitter: rockymtnruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "June 15, 2014"
 
 - name: Rails Pacific
   location: Taipei, Taiwan
