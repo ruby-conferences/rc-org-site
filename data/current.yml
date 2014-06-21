@@ -189,6 +189,14 @@
   reg_phrase: Early bird registration open
   cfp_phrase: CFP is open
 
+- name: RubyWorld Conference
+  location: Matsue, Japan
+  dates: "November 13-14, 2014"
+  url: http://www.rubyworld-conf.org/
+  twitter: rubyworldconf
+  cfp_phrase: CFP closes
+  cfp_date: "July 25, 2014"
+
 - name: RubyConf
   location: San Diego, CA
   dates: "November 17-19, 2014"
