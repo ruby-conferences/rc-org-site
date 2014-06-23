@@ -181,6 +181,13 @@
   cfp_phrase: CFP closes
   cfp_date: "July 2, 2014"
 
+- name: Keep Ruby Weird
+  location: Austin, TX
+  dates: "October 24, 2014"
+  url: http://keeprubyweird.com/
+  cfp_phrase: CFP closes
+  cfp_date: "July 31, 2014"
+
 - name: RailsIsrael
   location: Tel Aviv, Israel
   dates: "November 4-5, 2014"
