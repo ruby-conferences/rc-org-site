@@ -1,15 +1,3 @@
-- name: Ruby Lugdunum
-  location: Lyon, France
-  dates: "June 19-20, 2014"
-  url: http://rulu.eu
-  twitter: rulu
-
-- name: GoRuCo
-  location: New York, NY
-  dates: "June 21, 2014"
-  url: http://goruco.com/
-  twitter: goruco
-
 - name: RedDotRubyConf
   location: Singapore
   dates: "June 26-27, 2014"

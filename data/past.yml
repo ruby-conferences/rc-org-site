@@ -128,3 +128,15 @@
   dates: "June 6-7, 2014"
   url: http://www.rubynation.org/
   twitter: rubynation
+
+- name: Ruby Lugdunum
+  location: Lyon, France
+  dates: "June 19-20, 2014"
+  url: http://rulu.eu
+  twitter: rulu
+
+- name: GoRuCo
+  location: New York, NY
+  dates: "June 21, 2014"
+  url: http://goruco.com/
+  twitter: goruco
