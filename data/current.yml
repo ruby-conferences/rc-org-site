@@ -145,15 +145,6 @@
   url: http://rubydcamp.org/
   twitter: ruby_dcamp
 
-- name: Wicked Good Ruby
-  location: Boston, MA
-  dates: "October 11-12, 2014"
-  url: http://wickedgoodruby.com/
-  twitter: wickedgoodruby
-  reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "July 1, 2014"
-
 - name: RubyConf Portugal
   location: Braga, Portugal
   dates: "October 13-14, 2014"
