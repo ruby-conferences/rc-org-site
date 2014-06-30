@@ -1,8 +1,7 @@
 ---
 title: Cascadia Ruby Early Bird Pricing Ends Tomorrow
-published: false
 ---
 
 The Cascadia Ruby [early bird registration pricing][reg] ends July 1st.
 
-[reg]: LINK
+[reg]: https://ti.to/cascadiaruby/2014
