@@ -10,6 +10,7 @@
   dates: "February 6-8, 2014"
   url: http://rubyfuza.org/
   twitter: rubyfuza
+  video_link: http://www.confreaks.com/events/rubyfuza2014
 
 - name: Los Angeles Ruby Conference
   location: Los Angeles, CA
@@ -43,6 +44,7 @@
   dates: "March 6-7, 2014"
   url: https://ruby.onales.com/
   twitter: rbonales
+  video_link: http://www.confreaks.com/events/roa2014
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -76,6 +78,7 @@
   dates: "April 3-4, 2014"
   url: http://www.ancientcityruby.com/
   twitter: ancientcityruby
+  video_link: https://www.youtube.com/playlist?list=PLrjohaqTgNJMDh6Jg0vPftT2S34zPEPhJ
 
 - name: RailsConf
   location: Chicago, IL
@@ -89,6 +92,7 @@
   dates: "April 24-27, 2014"
   url: http://abrilproruby.com/
   twitter: abrilproruby
+  video_link: https://www.youtube.com/playlist?list=PL7a-mWnTar6v5cDC4MLDZKwD0RuMSDHHP
 
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
