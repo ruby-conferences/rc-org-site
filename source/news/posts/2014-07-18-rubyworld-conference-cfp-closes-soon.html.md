@@ -1,8 +1,7 @@
 ---
 title: RubyWorld Conference CFP Closes Soon
-published: false
 ---
 
 The RubyWorld Conference [call for proprosals][cfp] closes July 25th.
 
-[cfp]: LINK
+[cfp]: http://www.rubyworld-conf.org/en/news/2014/06/speaker-invite/
