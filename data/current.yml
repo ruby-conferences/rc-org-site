@@ -1,17 +1,3 @@
-- name: Deccan Ruby Conference
-  location: Pune, India
-  dates: "July 19, 2014"
-  url: http://www.deccanrubyconf.org/
-  twitter: deccanrubyconf
-  reg_phrase: Registration is open
-
-- name: Brighton Ruby Conf
-  location: Brighton, UK
-  dates: "July 21, 2014"
-  url: http://brightonruby.com/
-  twitter: brightonruby
-  reg_phrase: Registration is open
-
 - name: Burlington Ruby Conference
   location: Burlington, VT
   dates: "August 1-3, 2014"

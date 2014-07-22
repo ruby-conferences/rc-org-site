@@ -150,3 +150,15 @@
   dates: "June 26-27, 2014"
   url: http://reddotrubyconf.com/
   twitter: reddotrubyconf
+
+- name: Deccan Ruby Conference
+  location: Pune, India
+  dates: "July 19, 2014"
+  url: http://www.deccanrubyconf.org/
+  twitter: deccanrubyconf
+
+- name: Brighton Ruby Conf
+  location: Brighton, UK
+  dates: "July 21, 2014"
+  url: http://brightonruby.com/
+  twitter: brightonruby
