@@ -24,8 +24,7 @@
   dates: "August 11-12, 2014"
   url: http://cascadiaruby.com/
   twitter: cascadiaruby
-  reg_phrase: Early bird registration closes
-  reg_date: "July 1, 2014"
+  reg_phrase: Registration is open
 
 - name: Steel City Ruby
   location: Pittsburgh, PA
@@ -45,8 +44,6 @@
   dates: "August 23-24, 2014"
   url: http://ruby.froscon.org/
   twitter: redfrogconf
-  cfp_phrase: CFP closes
-  cfp_date: "June 30, 2014"
 
 - name: RubyConf Brazil
   location: São Paulo, Brazil
@@ -60,8 +57,6 @@
   dates: "September 4-5, 2014"
   url: http://www.windycityrails.org/
   twitter: windycityrails
-  reg_phrase: Early bird registration closes
-  reg_date: "July 2, 2014"
 
 - name: Frozen Rails
   location: Helsinki, Finland
@@ -122,8 +117,6 @@
   dates: "October 3-4, 2014"
   url: http://nickelcityruby.com/
   twitter: nickelcityruby
-  cfp_phrase: CFP closes
-  cfp_date: "July 3, 2014"
 
 - name: Ruby DCamp
   location: Prince William Forest Park, VA
@@ -136,16 +129,12 @@
   dates: "October 13-14, 2014"
   url: http://rubyconf.pt/
   twitter: rubyconfpt
-  cfp_phrase: CFP closes
-  cfp_date: "July 3, 2014"
 
 - name: Keep Ruby Weird
   location: Austin, TX
   dates: "October 24, 2014"
   url: http://keeprubyweird.com/
   twitter: keeprubyweird
-  cfp_phrase: CFP closes
-  cfp_date: "July 31, 2014"
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
@@ -160,8 +149,6 @@
   dates: "November 13-14, 2014"
   url: http://www.rubyworld-conf.org/
   twitter: rubyworldconf
-  cfp_phrase: CFP closes
-  cfp_date: "July 25, 2014"
 
 - name: RubyConf
   location: San Diego, CA
