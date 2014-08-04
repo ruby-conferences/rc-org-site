@@ -120,6 +120,14 @@
   url: http://keeprubyweird.com/
   twitter: keeprubyweird
 
+- name: RubyConf Argentina
+  location: Buenos Aires, Argentina
+  dates: "October 24-25, 2014"
+  url: http://rubyconfargentina.org/
+  twitter: rubyconfar
+  cfp_phrase: CFP closes
+  cfp_date: "September 1, 2014"
+
 - name: RailsIsrael
   location: Tel Aviv, Israel
   dates: "November 4-5, 2014"
