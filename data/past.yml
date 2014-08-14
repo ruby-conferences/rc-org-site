@@ -182,3 +182,9 @@
   dates: "August 1, 2014"
   url: http://jrubyconf.eu/
   twitter: jrubyconfeu
+
+- name: Cascadia Ruby
+  location: Portland, OR
+  dates: "August 11-12, 2014"
+  url: http://cascadiaruby.com/
+  twitter: cascadiaruby
