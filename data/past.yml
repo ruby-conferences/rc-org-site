@@ -196,3 +196,21 @@
   dates: "August 15-16, 2014"
   url: http://steelcityruby.org/
   twitter: steelcityruby
+
+- name: Madison+ Ruby
+  location: Madison, WI
+  dates: "August 22-23, 2014"
+  url: http://madisonpl.us/ruby/
+  twitter: madisonruby
+
+- name: RedFrogConf
+  location: Sankt Augustin, Germany
+  dates: "August 23-24, 2014"
+  url: http://ruby.froscon.org/
+  twitter: redfrogconf
+
+- name: RubyConf Brazil
+  location: São Paulo, Brazil
+  dates: "August 28-29, 2014"
+  url: http://www.rubyconf.com.br/
+  twitter: rubyconfbr
