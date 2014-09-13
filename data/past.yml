@@ -214,3 +214,21 @@
   dates: "August 28-29, 2014"
   url: http://www.rubyconf.com.br/
   twitter: rubyconfbr
+
+- name: WindyCityRails
+  location: Chicago, IL
+  dates: "September 4-5, 2014"
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
+
+- name: Frozen Rails
+  location: Helsinki, Finland
+  dates: "September 11-12, 2014"
+  url: http://frozenrails.eu/
+  twitter: frozenrails
+
+- name: Barcelona Ruby Conf
+  location: Barcelona, Spain
+  dates: "September 11-13, 2014"
+  url: http://www.baruco.org/
+  twitter: baruco
