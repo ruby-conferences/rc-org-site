@@ -93,6 +93,12 @@
   twitter: rubyconf
   reg_phrase: Registration is open
 
+- name: Garden City RubyConf
+  location: Bangalore, India
+  dates: "January 10, 2014"
+  url: http://www.gardencityruby.org/
+  twitter: gardencityrb
+
 - name: RubyCaribe
   location: Bridgetown, Barbados
   dates: "January 27-31, 2015"
