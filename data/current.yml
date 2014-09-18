@@ -71,8 +71,6 @@
   dates: "October 24-25, 2014"
   url: http://rubyconfargentina.org/
   twitter: rubyconfar
-  cfp_phrase: CFP closes
-  cfp_date: "September 10, 2014"
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
@@ -93,8 +91,6 @@
   dates: "November 17-19, 2014"
   url: http://rubyconf.org/
   twitter: rubyconf
-  cfp_phrase: CFP closes
-  cfp_date: "August 31, 2014"
   reg_phrase: Registration is open
 
 - name: RubyCaribe
