@@ -114,6 +114,12 @@
   cfp_date: "October 19, 2014"
   reg_phrase: Registration is open
 
+- name: Ancient City Ruby
+  location: St. Augustine, FL
+  dates: "March 26-27, 2015"
+  url: http://www.ancientcityruby.com/
+  twitter: ancientcityruby
+
 - name: RubyConf Philippines
   location: Boracay Island, Philippines
   dates: "March 27-28, 2015"
