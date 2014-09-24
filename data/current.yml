@@ -114,6 +114,12 @@
   cfp_date: "October 19, 2014"
   reg_phrase: Registration is open
 
+- name: Bath Ruby Conference
+  location: Bath, UK
+  dates: "March 13, 2015"
+  url: http://2015.bathruby.org
+  twitter: BathRuby
+
 - name: RubyConf Philippines
   location: Boracay Island, Philippines
   dates: "March 27-28, 2015"
