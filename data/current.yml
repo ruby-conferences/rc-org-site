@@ -99,6 +99,12 @@
   url: http://rubyconf.ph/
   twitter: rubyconfph
 
+- name: Ruby Conf India
+  location: Goa, India
+  dates: "April 3-5, 2015"
+  url: http://rubyconfindia.org/
+  twitter: rubyconfindia
+
 - name: RubyKaigi
   location: Tokyo, Japan
   dates: "April 9-11, 2015"
