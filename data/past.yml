@@ -232,3 +232,33 @@
   dates: "September 11-13, 2014"
   url: http://www.baruco.org/
   twitter: baruco
+
+- name: RubyKaigi
+  location: Tokyo, Japan
+  dates: "September 18-20, 2014"
+  url: http://rubykaigi.org
+  twitter: rubykaigi
+
+- name: Golden Gate Ruby Conference
+  location: San Francisco, CA
+  dates: "September 19-20, 2014"
+  url: http://gogaruco.com/
+  twitter: gogaruco
+
+- name: Rocky Mountain Ruby Conference
+  location: Boulder, CO
+  dates: "September 25-26, 2014"
+  url: http://rockymtnruby.com/
+  twitter: rockymtnruby
+
+- name: Rails Pacific
+  location: Taipei, Taiwan
+  dates: "September 26-27, 2014"
+  url: http://railspacific.com
+  twitter: railspacific
+
+- name: RailsClub
+  location: Moscow, Russia
+  dates: "September 27, 2014"
+  url: http://railsclub.ru/
+  twitter: railsclub_ru
