@@ -112,3 +112,9 @@
   dates: "April 21-23, 2015"
   url: http://www.railsconf.com/
   twitter: railsconf
+
+- name: WindyCityRails
+  location: Chicago, IL
+  dates: "September 17-18, 2014"
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
