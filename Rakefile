@@ -9,7 +9,7 @@ task :deploy do
   system "rsync -av -e ssh --delete build/ #{ENV['DEPLOY_TARGET']}"
 end
 
-desc "Create CFP posts"
+desc "Create CFP posts, date should be yyyy-mm-dd"
 task :cfp, :name, :date do |t, args|
   event_name = args[:name]
   cfp_date = Date.parse args[:date]
