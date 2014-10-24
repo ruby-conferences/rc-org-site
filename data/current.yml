@@ -67,6 +67,12 @@
   url: http://tropicalrb.com/
   twitter: tropicalrb
 
+- name: wroc_love.rb
+  location: Wrocław, Poland
+  dates: "March 13-15, 2015"
+  url: http://wrocloverb.com/
+  twitter: wrocloverb
+
 - name: Ancient City Ruby
   location: St. Augustine, FL
   dates: "March 26-27, 2015"
