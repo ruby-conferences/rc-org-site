@@ -1,15 +1,3 @@
-- name: Keep Ruby Weird
-  location: Austin, TX
-  dates: "October 24, 2014"
-  url: http://keeprubyweird.com/
-  twitter: keeprubyweird
-
-- name: RubyConf Argentina
-  location: Buenos Aires, Argentina
-  dates: "October 24-25, 2014"
-  url: http://rubyconfargentina.org/
-  twitter: rubyconfar
-
 - name: RailsIsrael
   location: Tel Aviv, Israel
   dates: "November 4-5, 2014"

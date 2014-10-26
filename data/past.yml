@@ -292,3 +292,15 @@
   dates: "October 13-14, 2014"
   url: http://rubyconf.pt/
   twitter: rubyconfpt
+
+- name: Keep Ruby Weird
+  location: Austin, TX
+  dates: "October 24, 2014"
+  url: http://keeprubyweird.com/
+  twitter: keeprubyweird
+
+- name: RubyConf Argentina
+  location: Buenos Aires, Argentina
+  dates: "October 24-25, 2014"
+  url: http://rubyconfargentina.org/
+  twitter: rubyconfar
