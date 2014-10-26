@@ -55,17 +55,17 @@
   cfp_date: "October 19, 2014"
   reg_phrase: Registration is open
 
+- name: Tropical Ruby
+  location: Porto de Galinhas, Brazil
+  dates: "March 5-8, 2015"
+  url: http://tropicalrb.com/
+  twitter: tropicalrb
+
 - name: Bath Ruby Conference
   location: Bath, UK
   dates: "March 13, 2015"
   url: http://2015.bathruby.org
   twitter: BathRuby
-
-- name: Tropical Ruby
-  location: Porto de Galinhas, Brazil
-  dates: "March 13-14, 2015"
-  url: http://tropicalrb.com/
-  twitter: tropicalrb
 
 - name: wroc_love.rb
   location: Wrocław, Poland
