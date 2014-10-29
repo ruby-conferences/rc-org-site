@@ -3,6 +3,6 @@ title: Tropical Ruby CFP Closes Soon
 published: false
 ---
 
-The Tropical Ruby [call for proprosals][cfp] closes January 10th.
+The Tropical Ruby [call for proprosals][cfp] closes December 7th.
 
 [cfp]: LINK
