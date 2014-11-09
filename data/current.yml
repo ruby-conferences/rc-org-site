@@ -83,12 +83,6 @@
   cfp_date: "January 15, 2015"
   reg_phrase: Registration is open
 
-- name: RubyKaigi
-  location: Tokyo, Japan
-  dates: "April 9-11, 2015"
-  url: http://rubykaigi.org
-  twitter: rubykaigi
-
 - name: RailsConf
   location: Atlanta, GA
   dates: "April 21-23, 2015"
