@@ -1,17 +1,3 @@
-- name: RailsIsrael
-  location: Tel Aviv, Israel
-  dates: "November 4-5, 2014"
-  url: http://railsisrael2014.events.co.il/
-  twitter: fogelmania
-  reg_phrase: Early bird registration open
-  cfp_phrase: CFP is open
-
-- name: RubyWorld Conference
-  location: Matsue, Japan
-  dates: "November 13-14, 2014"
-  url: http://www.rubyworld-conf.org/
-  twitter: rubyworldconf
-
 - name: RubyConf
   location: San Diego, CA
   dates: "November 17-19, 2014"
@@ -23,8 +9,6 @@
   dates: "January 10, 2015"
   url: http://www.gardencityruby.org/
   twitter: gardencityrb
-  cfp_phrase: CFP closes
-  cfp_date: "November 4, 2014"
 
 - name: RubyCaribe
   location: Bridgetown, Barbados
@@ -98,6 +82,14 @@
   dates: "April 21-23, 2015"
   url: http://www.railsconf.com/
   twitter: railsconf
+
+- name: Dev Objective
+  location: bloomington Minnesota
+  dates: "May 12-15, 2015"
+  url: http://www.devobjective.com/
+  twitter: https://twitter.com/devobjective
+  cfp_phrase: CFP open
+  reg_phrase: Registration is open
 
 - name: WindyCityRails
   location: Chicago, IL

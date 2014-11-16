@@ -304,3 +304,15 @@
   dates: "October 24-25, 2014"
   url: http://rubyconfargentina.org/
   twitter: rubyconfar
+
+- name: RailsIsrael
+  location: Tel Aviv, Israel
+  dates: "November 4-5, 2014"
+  url: http://railsisrael2014.events.co.il/
+  twitter: fogelmania
+  
+- name: RubyWorld Conference
+  location: Matsue, Japan
+  dates: "November 13-14, 2014"
+  url: http://www.rubyworld-conf.org/
+  twitter: rubyworldconf
