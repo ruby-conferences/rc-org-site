@@ -317,3 +317,9 @@
   dates: "November 13-14, 2014"
   url: http://www.rubyworld-conf.org/
   twitter: rubyworldconf
+
+- name: RubyConf
+  location: San Diego, CA
+  dates: "November 17-19, 2014"
+  url: http://rubyconf.org/
+  twitter: rubyconf
