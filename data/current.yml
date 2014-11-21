@@ -93,3 +93,9 @@
   dates: "September 17-18, 2015"
   url: http://www.windycityrails.org/
   twitter: windycityrails
+
+- name: RubyConf
+  location: San Antonio, TX
+  dates: "November 15-17, 2015"
+  url: http://rubyconf.org/
+  twitter: rubyconf
