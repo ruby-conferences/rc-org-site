@@ -31,7 +31,8 @@
   url: http://rubyfuza.org/
   twitter: rubyfuza
   reg_phrase: Registration is open
-  cfp_phrase: CFP is open
+  cfp_phrase: CFP closes
+  cfp_date: "December 15, 2014"
 
 - name: Tropical Ruby
   location: Porto de Galinhas, Brazil
