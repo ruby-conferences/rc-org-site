@@ -5,13 +5,6 @@
   twitter: gardencityrb
   reg_phrase: Registration is open
 
-- name: RubyCaribe
-  location: Bridgetown, Barbados
-  dates: "January 27-31, 2015"
-  url: http://www.rubycaribe.com/
-  twitter: rubycaribe
-  reg_phrase: Registration is open
-
 - name: Ruby devroom at FOSDEM
   location: Brussels, Belgium
   dates: "January 31 & February 1, 2015"
