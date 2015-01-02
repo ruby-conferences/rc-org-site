@@ -35,6 +35,14 @@
   url: https://ruby.onales.com/
   twitter: rbonales
 
+- name: MountainWest RubyConf 2015
+  location: Salt Lake City, UT
+  dates: "March 9-10, 2015"
+  url: http://mtnwestrubyconf.org
+  twitter: mwrc
+  cfp_phrase: CFP closes
+  cfp_date: "January 17, 2015"
+
 - name: Tropical Ruby
   location: Porto de Galinhas, Brazil
   dates: "March 5-8, 2015"
