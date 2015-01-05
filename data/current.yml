@@ -34,7 +34,8 @@
   dates: "March 5-6, 2015"
   url: https://ruby.onales.com/
   twitter: rbonales
-  cfp_phrase: CFP is open
+  cfp_phrase: CFP closes
+  cfp_date: "January 31, 2015"
 
 - name: MountainWest RubyConf
   location: Salt Lake City, UT
