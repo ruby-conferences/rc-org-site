@@ -114,6 +114,12 @@
   url: http://madisonpl.us/ruby/
   twitter: madisonruby
 
+- name: Barcelona Ruby Conf
+  location: Barcelona, Spain
+  dates: "September 1-2, 2015"
+  url: http://www.baruco.org/
+  twitter: baruco
+
 - name: WindyCityRails
   location: Chicago, IL
   dates: "September 17-18, 2015"
