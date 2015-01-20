@@ -3,8 +3,6 @@
   dates: "January 31 & February 1, 2015"
   url: http://fosdem-ruby.github.io/
   twitter: ruby_fosdem
-  cfp_phrase: CFP closes
-  cfp_date: "December 12, 2014"
 
 - name: Ruby Conf Australia
   location: Melbourne, Australia
@@ -19,8 +17,6 @@
   url: http://rubyfuza.org/
   twitter: rubyfuza
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "December 15, 2014"
 
 - name: Ruby on Ales
   location: Bend, OR
@@ -44,8 +40,6 @@
   url: http://tropicalrb.com/
   twitter: tropicalrb
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "December 7, 2014"
 
 - name: Bath Ruby Conference
   location: Bath, UK
@@ -64,10 +58,7 @@
   dates: "March 26-27, 2015"
   url: http://www.ancientcityruby.com/
   twitter: ancientcityruby
-  reg_phrase: Early Bird Registration ends
-  reg_date: "January 1, 2015"
-  cfp_phrase: CFP closes
-  cfp_date: "December 15, 2014"
+  reg_phrase: Registration is open
 
 - name: RubyConf Philippines
   location: Boracay Island, Philippines
@@ -82,8 +73,6 @@
   url: http://rubyconfindia.org/
   twitter: rubyconfindia
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "January 15, 2015"
 
 - name: RailsConf
   location: Atlanta, GA
