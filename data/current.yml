@@ -89,6 +89,12 @@
   url: http://www.reddotrubyconf.com/
   twitter: reddotrubyconf
 
+- name: Brighton Ruby
+  location: Brighton, UK
+  dates: "July 20, 2015"
+  url: http://www.brightonruby.com/
+  twitter: brightonruby
+
 - name: Burlington Ruby Conference
   location: Burlington, VT
   dates: "July 31-August 2, 2015"
