@@ -1,46 +1,21 @@
-- name: Garden City RubyConf
-  location: Bangalore, India
-  dates: "January 10, 2015"
-  url: http://www.gardencityruby.org/
-  twitter: gardencityrb
+- name: Ruby on Ales
+  location: Bend, OR
+  dates: "March 5-6, 2015"
+  url: https://ruby.onales.com/
+  twitter: rbonales
 
-- name: RubyCaribe
-  location: Bridgetown, Barbados
-  dates: "January 27-31, 2015"
-  url: http://www.rubycaribe.com/
-  twitter: rubycaribe
-  reg_phrase: Registration is open
-
-- name: Ruby devroom at FOSDEM
-  location: Brussels, Belgium
-  dates: "January 31 & February 1, 2015"
-  url: http://fosdem-ruby.github.io/
-  cfp_phrase: CFP closes
-  cfp_date: "December 1, 2014"
-
-- name: Ruby Conf Australia
-  location: Melbourne, Australia
-  dates: "February 4-7, 2015"
-  url: http://www.rubyconf.org.au/
-  twitter: rubyconf_au
-  reg_phrase: Registration is open
-
-- name: Rubyfuza
-  location: Cape Town, South Africa
-  dates: "February 5-6, 2015"
-  url: http://rubyfuza.org/
-  twitter: rubyfuza
-  reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "December 15, 2014"
+- name: MountainWest RubyConf
+  location: Salt Lake City, UT
+  dates: "March 9-10, 2015"
+  url: http://mtnwestrubyconf.org
+  twitter: mwrc
 
 - name: Tropical Ruby
   location: Porto de Galinhas, Brazil
   dates: "March 5-8, 2015"
   url: http://tropicalrb.com/
   twitter: tropicalrb
-  cfp_phrase: CFP closes
-  cfp_date: "December 7, 2014"
+  reg_phrase: Registration is open
 
 - name: Bath Ruby Conference
   location: Bath, UK
@@ -59,28 +34,20 @@
   dates: "March 26-27, 2015"
   url: http://www.ancientcityruby.com/
   twitter: ancientcityruby
-  reg_phrase: Early Bird Registration ends
-  reg_date: "January 1, 2015"
-  cfp_phrase: CFP closes
-  cfp_date: "December 15, 2014"
+  reg_phrase: Registration is open
 
 - name: RubyConf Philippines
   location: Boracay Island, Philippines
   dates: "March 27-28, 2015"
   url: http://rubyconf.ph/
   twitter: rubyconfph
-  reg_phrase: Early Bird Registration ends
-  reg_date: "December 4, 2014"
-  cfp_phrase: CFP closes
-  cfp_date: "December 4, 2014"
+  reg_phrase: Registration is open
 
 - name: Ruby Conf India
   location: Goa, India
   dates: "April 3-5, 2015"
   url: http://rubyconfindia.org/
   twitter: rubyconfindia
-  cfp_phrase: CFP closes
-  cfp_date: "January 15, 2015"
   reg_phrase: Registration is open
 
 - name: RailsConf
@@ -88,6 +55,47 @@
   dates: "April 21-23, 2015"
   url: http://www.railsconf.com/
   twitter: railsconf
+  reg_phrase: Registration is open
+
+- name: RubyConf Kenya
+  location: Nairobi, Kenya
+  dates: "May 8-9, 2015"
+  url: http://ruby-conf-ke.nairuby.org
+  twitter: nairubyke
+  reg_phrase: Registration is open
+
+- name: RedDotRubyConf
+  location: Singapore
+  dates: "June 4-5, 2015"
+  url: http://www.reddotrubyconf.com/
+  twitter: reddotrubyconf
+
+- name: Brighton Ruby
+  location: Brighton, UK
+  dates: "July 20, 2015"
+  url: http://www.brightonruby.com/
+  twitter: brightonruby
+  reg_phrase: Registration is open
+
+- name: Burlington Ruby Conference
+  location: Burlington, VT
+  dates: "July 31-August 2, 2015"
+  url: http://burlingtonrubyconference.com/
+  twitter: btvrubyconf
+
+- name: Madison+ Ruby
+  location: Madison, WI
+  dates: "August 20-22, 2015"
+  url: http://madisonpl.us/ruby/
+  twitter: madisonruby
+  cfp_phrase: CFP open
+  cfp_date: "May 9, 2015"
+
+- name: Barcelona Ruby Conf
+  location: Barcelona, Spain
+  dates: "September 1-2, 2015"
+  url: http://www.baruco.org/
+  twitter: baruco
 
 - name: WindyCityRails
   location: Chicago, IL

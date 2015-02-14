@@ -328,3 +328,27 @@
   url: http://rubyconf.org/
   twitter: rubyconf
   video_link: http://www.confreaks.com/events/RubyConf2014
+
+- name: Garden City RubyConf
+  location: Bangalore, India
+  dates: "January 10, 2015"
+  url: http://www.gardencityruby.org/
+  twitter: gardencityrb
+
+- name: Ruby devroom at FOSDEM
+  location: Brussels, Belgium
+  dates: "January 31 & February 1, 2015"
+  url: http://fosdem-ruby.github.io/
+  twitter: ruby_fosdem
+
+- name: Ruby Conf Australia
+  location: Melbourne, Australia
+  dates: "February 4-7, 2015"
+  url: http://www.rubyconf.org.au/
+  twitter: rubyconf_au
+
+- name: Rubyfuza
+  location: Cape Town, South Africa
+  dates: "February 5-6, 2015"
+  url: http://rubyfuza.org/
+  twitter: rubyfuza
