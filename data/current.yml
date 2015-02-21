@@ -108,3 +108,9 @@
   dates: "November 15-17, 2015"
   url: http://rubyconf.org/
   twitter: rubyconf
+
+- name: Rocky Mountain Ruby Conference
+  location: Boulder, CO
+  dates: "September 23-25, 2015"
+  url: http://www.rockymtnruby.com/
+  twitter: rockymtnruby
