@@ -9,6 +9,7 @@
   dates: "March 9-10, 2015"
   url: http://mtnwestrubyconf.org
   twitter: mwrc
+  reg_phrase: Registration is open
 
 - name: Tropical Ruby
   location: Porto de Galinhas, Brazil
@@ -22,6 +23,7 @@
   dates: "March 13, 2015"
   url: http://2015.bathruby.org
   twitter: BathRuby
+  reg_phrase: Registration is open
 
 - name: wroc_love.rb
   location: Wrocław, Poland
@@ -69,6 +71,7 @@
   dates: "June 4-5, 2015"
   url: http://www.reddotrubyconf.com/
   twitter: reddotrubyconf
+  reg_phrase: Registration is open
 
 - name: Brighton Ruby
   location: Brighton, UK
