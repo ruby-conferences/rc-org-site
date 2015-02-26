@@ -29,6 +29,13 @@
   url: http://wrocloverb.com/
   twitter: wrocloverb
 
+- name: RubyConfLT
+  location: Vilnius, Lithuania
+  dates: "March 21, 2015"
+  url: http://www.rubyconf.lt
+  twitter: rubyconflt
+  reg_phrase: Registration is open
+
 - name: Ancient City Ruby
   location: St. Augustine, FL
   dates: "March 26-27, 2015"
