@@ -28,6 +28,12 @@
   dates: "March 13-15, 2015"
   url: http://wrocloverb.com/
   twitter: wrocloverb
+  
+- name: Lithuanian Ruby Conference
+  location: Vilnius, Lithuania
+  dates: "March 21, 2015"
+  url: http://rubyconf.lt/
+  twitter: rubyconflt
 
 - name: Ancient City Ruby
   location: St. Augustine, FL
