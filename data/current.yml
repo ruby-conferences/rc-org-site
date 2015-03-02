@@ -73,6 +73,14 @@
   twitter: reddotrubyconf
   reg_phrase: Registration is open
 
+- name: RubyNation
+  location: Washington, DC
+  dates: "June 12-13, 2015"
+  url: http://www.rubynation.org/
+  twitter: rubynation
+  cfp_phrase: CFP open
+  cfp_date: "March 31, 2015"
+
 - name: Brighton Ruby
   location: Brighton, UK
   dates: "July 20, 2015"
