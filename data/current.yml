@@ -114,6 +114,9 @@
   dates: "September 17-18, 2015"
   url: http://www.windycityrails.org/
   twitter: windycityrails
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+  cfp_date: "March 31, 2015"
 
 - name: RubyConf
   location: San Antonio, TX
