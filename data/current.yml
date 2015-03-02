@@ -85,7 +85,9 @@
   dates: "July 20, 2015"
   url: http://goruco.com/
   twitter: goruco
-  reg_phrase: Registration and CFP are open
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+  cfp_date: "March 24, 2015"
 
 - name: Burlington Ruby Conference
   location: Burlington, VT
