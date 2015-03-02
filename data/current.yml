@@ -78,7 +78,7 @@
   dates: "June 12-13, 2015"
   url: http://www.rubynation.org/
   twitter: rubynation
-  cfp_phrase: CFP open
+  cfp_phrase: CFP closes
   cfp_date: "March 31, 2015"
 
 - name: Brighton Ruby
@@ -94,7 +94,7 @@
   url: http://goruco.com/
   twitter: goruco
   reg_phrase: Registration is open
-  cfp_phrase: CFP open
+  cfp_phrase: CFP closes
   cfp_date: "March 24, 2015"
 
 - name: Burlington Ruby Conference
@@ -108,7 +108,7 @@
   dates: "August 20-22, 2015"
   url: http://madisonpl.us/ruby/
   twitter: madisonruby
-  cfp_phrase: CFP open
+  cfp_phrase: CFP closes
   cfp_date: "May 9, 2015"
 
 - name: Ruby Midwest
@@ -129,7 +129,7 @@
   url: http://www.windycityrails.org/
   twitter: windycityrails
   reg_phrase: Registration is open
-  cfp_phrase: CFP open
+  cfp_phrase: CFP closes
   cfp_date: "March 31, 2015"
 
 - name: RubyConf
