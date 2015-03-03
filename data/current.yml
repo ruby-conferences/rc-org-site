@@ -145,6 +145,12 @@
   url: http://www.rockymtnruby.com/
   twitter: rockymtnruby
 
+- name: RubyWorld Conference
+  location: Matsue, Japan
+  dates: "November 11-12, 2015"
+  url: http://www.rubyworld-conf.org/
+  twitter: rubyworldconf
+
 - name: RubyConf
   location: San Antonio, TX
   dates: "November 15-17, 2015"
