@@ -4,18 +4,18 @@
   url: https://ruby.onales.com/
   twitter: rbonales
 
-- name: MountainWest RubyConf
-  location: Salt Lake City, UT
-  dates: "March 9-10, 2015"
-  url: http://mtnwestrubyconf.org
-  twitter: mwrc
-  reg_phrase: Registration is open
-
 - name: Tropical Ruby
   location: Porto de Galinhas, Brazil
   dates: "March 5-8, 2015"
   url: http://tropicalrb.com/
   twitter: tropicalrb
+  reg_phrase: Registration is open
+
+- name: MountainWest RubyConf
+  location: Salt Lake City, UT
+  dates: "March 9-10, 2015"
+  url: http://mtnwestrubyconf.org
+  twitter: mwrc
   reg_phrase: Registration is open
 
 - name: Bath Ruby Conference
@@ -139,14 +139,14 @@
   cfp_phrase: CFP closes
   cfp_date: "March 31, 2015"
 
-- name: RubyConf
-  location: San Antonio, TX
-  dates: "November 15-17, 2015"
-  url: http://rubyconf.org/
-  twitter: rubyconf
-
 - name: Rocky Mountain Ruby Conference
   location: Boulder, CO
   dates: "September 23-25, 2015"
   url: http://www.rockymtnruby.com/
   twitter: rockymtnruby
+
+- name: RubyConf
+  location: San Antonio, TX
+  dates: "November 15-17, 2015"
+  url: http://rubyconf.org/
+  twitter: rubyconf
