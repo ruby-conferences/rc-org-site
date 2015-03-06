@@ -156,3 +156,13 @@
   dates: "November 15-17, 2015"
   url: http://rubyconf.org/
   twitter: rubyconf
+  
+  name: Rails Israel 2015 Conference
+  location: Tel Aviv, Israel
+  dates: "November 25-26, 2015"
+  url: http://railsisrael2015.events.co.il
+  twitter: fogelmania
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "November 5, 2015"
+
