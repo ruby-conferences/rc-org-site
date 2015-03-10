@@ -112,6 +112,18 @@
   cfp_phrase: CFP closes
   cfp_date: "April 5, 2015"
 
+- name: jrubyconf.eu
+  location: Berlin-Brandenburg, Germany
+  dates: "July 31, 2015"
+  url: http://jrubyconf.eu
+  twitter: JRubyConfEU
+
+- name: eurucamp
+  location: Berlin-Brandenburg, Germany
+  dates: "July 31-August 2, 2015"
+  url: http://eurucamp.org
+  twitter: eurucamp
+
 - name: Madison+ Ruby
   location: Madison, WI
   dates: "August 20-22, 2015"
