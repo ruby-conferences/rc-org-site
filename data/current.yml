@@ -104,6 +104,12 @@
   cfp_phrase: CFP closes
   cfp_date: "March 24, 2015"
 
+- name: JRubyConf EU
+  location: Berlin-Brandenburg, Germany
+  dates: "July 31, 2015"
+  url: http://jrubyconf.eu
+  twitter: jrubyconfeu
+
 - name: Burlington Ruby Conference
   location: Burlington, VT
   dates: "July 31-August 2, 2015"
@@ -111,12 +117,6 @@
   twitter: btvrubyconf
   cfp_phrase: CFP closes
   cfp_date: "April 5, 2015"
-
-- name: jrubyconf.eu
-  location: Berlin-Brandenburg, Germany
-  dates: "July 31, 2015"
-  url: http://jrubyconf.eu
-  twitter: JRubyConfEU
 
 - name: eurucamp
   location: Berlin-Brandenburg, Germany
