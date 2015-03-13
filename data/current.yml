@@ -88,13 +88,6 @@
   cfp_phrase: CFP closes
   cfp_date: "March 31, 2015"
 
-- name: Brighton Ruby
-  location: Brighton, UK
-  dates: "July 20, 2015"
-  url: http://www.brightonruby.com/
-  twitter: brightonruby
-  reg_phrase: Registration is open
-
 - name: Gotham Ruby Conference
   location: New York, NY
   dates: "June 20, 2015"
@@ -103,6 +96,13 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP closes
   cfp_date: "March 24, 2015"
+
+- name: Brighton Ruby
+  location: Brighton, UK
+  dates: "July 20, 2015"
+  url: http://www.brightonruby.com/
+  twitter: brightonruby
+  reg_phrase: Registration is open
 
 - name: JRubyConf EU
   location: Potsdam, Germany
