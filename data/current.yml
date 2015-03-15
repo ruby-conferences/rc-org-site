@@ -159,6 +159,12 @@
   url: http://www.rockymtnruby.com/
   twitter: rockymtnruby
 
+- name: EuRuKo
+  location: Salzburg, Austria
+  dates: "October 17-18, 2015"
+  url: http://www.euruko2015.org/
+  twitter: euruko
+
 - name: RubyWorld Conference
   location: Matsue, Japan
   dates: "November 11-12, 2015"
