@@ -365,25 +365,21 @@
   dates: "March 5-8, 2015"
   url: http://tropicalrb.com/
   twitter: tropicalrb
-  reg_phrase: Registration is open
 
 - name: MountainWest RubyConf
   location: Salt Lake City, UT
   dates: "March 9-10, 2015"
   url: http://mtnwestrubyconf.org
   twitter: mwrc
-  reg_phrase: Registration is open
 
 - name: Bath Ruby Conference
   location: Bath, UK
   dates: "March 13, 2015"
   url: http://2015.bathruby.org
   twitter: BathRuby
-  reg_phrase: Registration is open
 
 - name: wroc_love.rb
   location: Wrocław, Poland
   dates: "March 13-15, 2015"
   url: http://wrocloverb.com/
   twitter: wrocloverb
-
