@@ -26,6 +26,13 @@
   twitter: railsconf
   reg_phrase: Registration is open
 
+- name: ROSSConf Vienna
+  location: Vienna, Austria
+  dates: "April 25, 2015"
+  url: http://www.rossconf.io/
+  twitter: rossconf
+  reg_phrase: Registration is open
+
 - name: RubyConf Kenya
   location: Nairobi, Kenya
   dates: "May 8-9, 2015"
