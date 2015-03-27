@@ -90,7 +90,9 @@
   dates: "July 31-August 2, 2015"
   url: http://eurucamp.org
   twitter: eurucamp
-
+  cfp_phrase: CFP closes
+  cfp_date: "May 1st, 2015"
+  
 - name: Madison+ Ruby
   location: Madison, WI
   dates: "August 20-22, 2015"
