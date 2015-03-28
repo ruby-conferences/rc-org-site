@@ -33,6 +33,14 @@
   twitter: nairubyke
   reg_phrase: Registration is open
 
+- name: Ruby Conference Kiev
+  location: Kiev, Ukraine
+  dates: "May 30-31, 2015"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
 - name: RedDotRubyConf
   location: Singapore
   dates: "June 4-5, 2015"
@@ -54,8 +62,6 @@
   url: http://goruco.com/
   twitter: goruco
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "March 24, 2015"
 
 - name: Brighton Ruby
   location: Brighton, UK
@@ -105,6 +111,12 @@
   dates: "September 1-2, 2015"
   url: http://www.baruco.org/
   twitter: baruco
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  dates: "September 11-12, 2015"
+  url: http://rubyconf.tw/
+  twitter: rubytaiwan
 
 - name: WindyCityRails
   location: Chicago, IL
