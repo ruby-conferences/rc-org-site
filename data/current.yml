@@ -118,6 +118,13 @@
   url: http://rubyconf.tw/
   twitter: rubytaiwan
 
+- name: RubyConf Portugal
+  location: Braga, Portugal
+  dates: "September 14-15, 2015"
+  url: http://rubyconf.pt
+  twitter: rubyconfpt
+  cfp_phrase: CFP is open
+
 - name: WindyCityRails
   location: Chicago, IL
   dates: "September 17-18, 2015"
