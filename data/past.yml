@@ -397,3 +397,9 @@
   dates: "March 26-27, 2015"
   url: http://www.ancientcityruby.com/
   twitter: ancientcityruby
+
+- name: RubyConf Philippines
+  location: Boracay Island, Philippines
+  dates: "March 27-28, 2015"
+  url: http://rubyconf.ph/
+  twitter: rubyconfph
