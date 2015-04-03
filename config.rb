@@ -92,7 +92,7 @@ set :markdown_engine, :redcarpet
 
 configure :development do
   activate :google_analytics do |ga|
-    ga.tracking_id = false
+    ga.tracking_id = ''
   end
 end
 
