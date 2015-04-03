@@ -359,6 +359,7 @@
   dates: "March 5-6, 2015"
   url: https://ruby.onales.com/
   twitter: rbonales
+  video_link: http://confreaks.tv/events/roa2015
 
 - name: Tropical Ruby
   location: Porto de Galinhas, Brazil
@@ -371,6 +372,7 @@
   dates: "March 9-10, 2015"
   url: http://mtnwestrubyconf.org
   twitter: mwrc
+  video_link: http://confreaks.tv/events/mwrc2015
 
 - name: Bath Ruby Conference
   location: Bath, UK
