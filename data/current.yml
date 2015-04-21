@@ -79,6 +79,12 @@
   twitter: eurucamp
   cfp_phrase: CFP closes
   cfp_date: "May 1, 2015"
+  
+- name: DeccanRubyConf
+  location: Pune, India
+  dates: "August 8, 2015"
+  url: http://www.deccanrubyconf.org
+  twitter: deccanrubyconf
 
 - name: Madison+ Ruby
   location: Madison, WI
