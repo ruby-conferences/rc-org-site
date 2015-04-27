@@ -117,7 +117,8 @@
   dates: "September 14-15, 2015"
   url: http://rubyconf.pt
   twitter: rubyconfpt
-  cfp_phrase: CFP is open
+  cfp_phrase: CFP closes
+  cfp_date: "June 17, 2015"
 
 - name: WindyCityRails
   location: Chicago, IL
