@@ -85,6 +85,8 @@
   dates: "August 8, 2015"
   url: http://www.deccanrubyconf.org
   twitter: deccanrubyconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
 
 - name: Madison+ Ruby
   location: Madison, WI
