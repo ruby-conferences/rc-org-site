@@ -142,8 +142,8 @@
 - name: RubyConf Brazil
   location: São Paulo, Brazil
   dates: "September 18-19, 2015"
-  url: http://rubyconfbrcfp.com.br
-  reg_phrase: CFP is open
+  url: http://www.rubyconf.com.br/
+  twitter: rubyconfbr
   cfp_phrase: CFP closes
   cfp_date: "May 31, 2015"
 
