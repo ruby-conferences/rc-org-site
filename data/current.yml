@@ -150,6 +150,12 @@
   cfp_phrase: CFP closes
   cfp_date: "June 21, 2015"
 
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  dates: "October 15-16, 2015"
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco
+
 - name: EuRuKo
   location: Salzburg, Austria
   dates: "October 17-18, 2015"
