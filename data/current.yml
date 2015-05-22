@@ -1,10 +1,3 @@
-- name: RubyConf Kenya
-  location: Nairobi, Kenya
-  dates: "May 8-9, 2015"
-  url: http://ruby-conf-ke.nairuby.org
-  twitter: nairubyke
-  reg_phrase: Registration is open
-
 - name: Ruby Conference Kiev
   location: Kiev, Ukraine
   dates: "May 30-31, 2015"
@@ -25,8 +18,6 @@
   url: http://www.rubynation.org/
   twitter: rubynation
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "March 31, 2015"
 
 - name: Gotham Ruby Conference
   location: New York, NY
@@ -48,8 +39,6 @@
   dates: "July 31, 2015"
   url: http://jrubyconf.eu
   twitter: jrubyconfeu
-  cfp_phrase: CFP closes
-  cfp_date: "May 1, 2015"
 
 - name: Burlington Ruby Conference
   location: Burlington, VT
@@ -57,16 +46,12 @@
   url: http://burlingtonrubyconference.com/
   twitter: btvrubyconf
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "April 5, 2015"
 
 - name: eurucamp
   location: Potsdam, Germany
   dates: "July 31-August 2, 2015"
   url: http://eurucamp.org
   twitter: eurucamp
-  cfp_phrase: CFP closes
-  cfp_date: "May 1, 2015"
 
 - name: DeccanRubyConf
   location: Pune, India
@@ -83,8 +68,6 @@
   url: http://madisonpl.us/ruby/
   twitter: madisonruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "May 9, 2015"
 
 - name: Ruby Midwest
   location: Kansas City, MO
@@ -98,8 +81,6 @@
   url: http://www.baruco.org/
   twitter: baruco
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "May 2, 2015"
 
 - name: RubyConf Taiwan
   location: Taipei, Taiwan
@@ -122,8 +103,6 @@
   url: http://www.windycityrails.org/
   twitter: windycityrails
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "March 31, 2015"
 
 - name: RubyConf Brazil
   location: São Paulo, Brazil
@@ -161,8 +140,6 @@
   dates: "October 17-18, 2015"
   url: http://www.euruko2015.org/
   twitter: euruko
-  cfp_phrase: CFP closes
-  cfp_date: "May 1, 2015"
 
 - name: RubyWorld Conference
   location: Matsue, Japan

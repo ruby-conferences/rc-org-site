@@ -421,3 +421,9 @@
   dates: "April 25, 2015"
   url: http://www.rossconf.io/
   twitter: rossconf
+
+- name: RubyConf Kenya
+  location: Nairobi, Kenya
+  dates: "May 8-9, 2015"
+  url: http://ruby-conf-ke.nairuby.org
+  twitter: nairubyke
