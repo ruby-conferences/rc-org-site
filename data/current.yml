@@ -169,6 +169,15 @@
   dates: "November 11-12, 2015"
   url: http://www.rubyworld-conf.org/
   twitter: rubyworldconf
+  
+- name: RubyDay
+  location: Turin, Italy
+  dates: "November 13, 2015"
+  url: http://www.rubyday.it
+  twitter: rubydayit
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "July 1, 2015"
 
 - name: RubyConf
   location: San Antonio, TX
