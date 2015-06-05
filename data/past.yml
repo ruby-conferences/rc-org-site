@@ -427,3 +427,9 @@
   dates: "May 8-9, 2015"
   url: http://ruby-conf-ke.nairuby.org
   twitter: nairubyke
+
+- name: Ruby Conference Kiev
+  location: Kiev, Ukraine
+  dates: "May 30-31, 2015"
+  url: http://rubyc.eu/
+  twitter: rubyc_eu
