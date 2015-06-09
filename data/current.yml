@@ -32,6 +32,7 @@
   dates: "July 31, 2015"
   url: http://jrubyconf.eu
   twitter: jrubyconfeu
+  reg_phrase: Registration is open
 
 - name: Burlington Ruby Conference
   location: Burlington, VT
@@ -45,6 +46,7 @@
   dates: "July 31-August 2, 2015"
   url: http://eurucamp.org
   twitter: eurucamp
+  reg_phrase: Registration is open
 
 - name: DeccanRubyConf
   location: Pune, India
