@@ -1,17 +1,3 @@
-- name: RedDotRubyConf
-  location: Singapore
-  dates: "June 4-5, 2015"
-  url: http://www.reddotrubyconf.com/
-  twitter: reddotrubyconf
-  reg_phrase: Registration is open
-
-- name: RubyNation
-  location: Washington, DC
-  dates: "June 12-13, 2015"
-  url: http://www.rubynation.org/
-  twitter: rubynation
-  reg_phrase: Registration is open
-
 - name: Gotham Ruby Conference
   location: New York, NY
   dates: "June 20, 2015"

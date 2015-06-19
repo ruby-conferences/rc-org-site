@@ -433,3 +433,15 @@
   dates: "May 30-31, 2015"
   url: http://rubyc.eu/
   twitter: rubyc_eu
+
+- name: RedDotRubyConf
+  location: Singapore
+  dates: "June 4-5, 2015"
+  url: http://www.reddotrubyconf.com/
+  twitter: reddotrubyconf
+
+- name: RubyNation
+  location: Washington, DC
+  dates: "June 12-13, 2015"
+  url: http://www.rubynation.org/
+  twitter: rubynation
