@@ -16,7 +16,8 @@ $ ->
     addCallout: ->
       dateData   = $(@).data().date
       phraseData = $(@).data().phrase
-      $(@).text $event_list.calloutText(dateData, phraseData)
+      phrase = $event_list.calloutText(dateData, phraseData)
+      if phrase then $(@).text phrase else $(@).remove()
 
     init: ->
       $("[data-phrase]").each(@addCallout)
