@@ -1,0 +1,165 @@
+- name: Gotham Ruby Conference
+  location: New York, NY
+  dates: "June 20, 2015"
+  url: http://goruco.com/
+  twitter: goruco
+  reg_phrase: Registration is open
+
+- name: Brighton Ruby
+  location: Brighton, UK
+  dates: "July 20, 2015"
+  url: http://www.brightonruby.com/
+  twitter: brightonruby
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
+- name: JRubyConf EU
+  location: Potsdam, Germany
+  dates: "July 31, 2015"
+  url: http://jrubyconf.eu
+  twitter: jrubyconfeu
+  reg_phrase: Registration is open
+
+- name: Burlington Ruby Conference
+  location: Burlington, VT
+  dates: "July 31-August 2, 2015"
+  url: http://burlingtonrubyconference.com/
+  twitter: btvrubyconf
+  reg_phrase: Registration is open
+
+- name: eurucamp
+  location: Potsdam, Germany
+  dates: "July 31-August 2, 2015"
+  url: http://eurucamp.org
+  twitter: eurucamp
+  reg_phrase: Registration is open
+
+- name: DeccanRubyConf
+  location: Pune, India
+  dates: "August 8, 2015"
+  url: http://www.deccanrubyconf.org
+  twitter: deccanrubyconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "June 15, 2015"
+
+- name: Madison+ Ruby
+  location: Madison, WI
+  dates: "August 20-22, 2015"
+  url: http://madisonpl.us/ruby/
+  twitter: madisonruby
+  reg_phrase: Registration is open
+
+- name: Ruby Midwest
+  location: Kansas City, MO
+  dates: "August 28-29, 2015"
+  url: http://rubymidwest.com/
+  twitter: rubymidwest
+
+- name: Barcelona Ruby Conf
+  location: Barcelona, Spain
+  dates: "September 1-2, 2015"
+  url: http://www.baruco.org/
+  twitter: baruco
+  reg_phrase: Registration is open
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  dates: "September 11-12, 2015"
+  url: http://rubyconf.tw/
+  twitter: rubytaiwan
+
+- name: RubyConf Portugal
+  location: Braga, Portugal
+  dates: "September 14-15, 2015"
+  url: http://rubyconf.pt
+  twitter: rubyconfpt
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "June 17, 2015"
+
+- name: WindyCityRails
+  location: Chicago, IL
+  dates: "September 17-18, 2015"
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
+  reg_phrase: Registration is open
+
+- name: RubyConf Brazil
+  location: São Paulo, Brazil
+  dates: "September 18-19, 2015"
+  url: http://www.rubyconf.com.br/
+  twitter: rubyconfbr
+
+- name: Rocky Mountain Ruby Conference
+  location: Boulder, CO
+  dates: "September 23-25, 2015"
+  url: http://www.rockymtnruby.com/
+  twitter: rockymtnruby
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "June 15, 2015"
+
+- name: ArrrrCamp
+  location: Ghent, Belgium
+  dates: "October 1-2, 2015"
+  url: http://2015.arrrrcamp.be
+  twitter: arrrrcamp
+  cfp_phrase: CFP closes
+  cfp_date: "June 21, 2015"
+
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  dates: "October 15-16, 2015"
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco
+
+- name: EuRuKo
+  location: Salzburg, Austria
+  dates: "October 17-18, 2015"
+  url: http://www.euruko2015.org/
+  twitter: euruko
+
+- name: RubyWorld Conference
+  location: Matsue, Japan
+  dates: "November 11-12, 2015"
+  url: http://www.rubyworld-conf.org/
+  twitter: rubyworldconf
+
+- name: Keey Ruby Weird
+  location: Austin, Texas
+  dates: "October 23, 2015"
+  url: http://keeprubyweird.com
+  twitter: keeprubyweird
+  cfp_phrase: CFP closes
+  cfp_date: "July 31, 2015"
+
+- name: RubyDay
+  location: Turin, Italy
+  dates: "November 13, 2015"
+  url: http://www.rubyday.it
+  twitter: rubydayit
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "July 1, 2015"
+
+- name: RubyConf
+  location: San Antonio, TX
+  dates: "November 15-17, 2015"
+  url: http://rubyconf.org/
+  twitter: rubyconf
+
+- name: RailsIsrael
+  location: Tel Aviv, Israel
+  dates: "November 24, 2015"
+  url: http://railsisrael2015.events.co.il
+  twitter: fogelmania
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "November 5, 2015"
+
+- name: RubyKaigi
+  location: Tokyo, Japan
+  dates: "December 11-13, 2015"
+  url: http://rubykaigi.org/2015
+  twitter: rubykaigi

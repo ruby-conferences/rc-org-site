@@ -1,7 +1,5 @@
 $ ->
-
-  $home =
-    $el: $("#home")
+  $event_list =
     calloutText: (dateData, phraseData)->
       date = if dateData then moment(dateData) else false
       return phraseData unless date
@@ -18,15 +16,10 @@ $ ->
     addCallout: ->
       dateData   = $(@).data().date
       phraseData = $(@).data().phrase
+      phrase = $event_list.calloutText(dateData, phraseData)
+      if phrase then $(@).text phrase else $(@).remove()
 
-      $(@).text $home.calloutText(dateData, phraseData)
-    toggleNav: (e) ->
-      $li = $(e.target).closest('li')
-      $li.addClass('active').siblings().removeClass('active')
-      @$el.find('dl').removeClass('active').eq($li.index()).addClass('active')
-      false
     init: ->
-      @$el.find('nav li a').click($.proxy(@toggleNav, @)).first().click()
       $("[data-phrase]").each(@addCallout)
 
-  $home.init()
+  $event_list.init()

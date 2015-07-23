@@ -23,7 +23,8 @@ activate :blog do |blog|
   # blog.year_link = "{year}.html"
   # blog.month_link = "{year}/{month}.html"
   # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
+  blog.default_extension = '.md'
+  blog.new_article_template = 'source/_new_post.erb'
 
   # blog.tag_template = "tag.html"
   # blog.calendar_template = "calendar.html"
@@ -91,7 +92,7 @@ set :markdown_engine, :redcarpet
 
 configure :development do
   activate :google_analytics do |ga|
-    ga.tracking_id = false
+    ga.tracking_id = ''
   end
 end
 
@@ -99,5 +100,12 @@ end
 configure :build do
   activate :google_analytics do |ga|
     ga.tracking_id = 'UA-3137727-6'
+  end
+end
+
+helpers do
+  def nav_item(path, text)
+    class_name = path == current_page.url ? 'active' : ''
+    content_tag(:li, class: class_name) { link_to text, path }
   end
 end

@@ -1,0 +1,4 @@
+%article#past
+  %dl
+    - data.past.each do |event|
+      = partial :event, locals: { event: event }
