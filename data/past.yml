@@ -445,3 +445,33 @@
   dates: "June 12-13, 2015"
   url: http://www.rubynation.org/
   twitter: rubynation
+
+- name: Gotham Ruby Conference
+  location: New York, NY
+  dates: "June 20, 2015"
+  url: http://goruco.com/
+  twitter: goruco
+
+- name: Brighton Ruby
+  location: Brighton, UK
+  dates: "July 20, 2015"
+  url: http://www.brightonruby.com/
+  twitter: brightonruby
+
+- name: JRubyConf EU
+  location: Potsdam, Germany
+  dates: "July 31, 2015"
+  url: http://jrubyconf.eu
+  twitter: jrubyconfeu
+
+- name: Burlington Ruby Conference
+  location: Burlington, VT
+  dates: "July 31-August 2, 2015"
+  url: http://burlingtonrubyconference.com/
+  twitter: btvrubyconf
+
+- name: eurucamp
+  location: Potsdam, Germany
+  dates: "July 31-August 2, 2015"
+  url: http://eurucamp.org
+  twitter: eurucamp

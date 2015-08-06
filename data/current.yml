@@ -1,39 +1,3 @@
-- name: Gotham Ruby Conference
-  location: New York, NY
-  dates: "June 20, 2015"
-  url: http://goruco.com/
-  twitter: goruco
-  reg_phrase: Registration is open
-
-- name: Brighton Ruby
-  location: Brighton, UK
-  dates: "July 20, 2015"
-  url: http://www.brightonruby.com/
-  twitter: brightonruby
-  reg_phrase: Registration is open
-  cfp_phrase: CFP is open
-
-- name: JRubyConf EU
-  location: Potsdam, Germany
-  dates: "July 31, 2015"
-  url: http://jrubyconf.eu
-  twitter: jrubyconfeu
-  reg_phrase: Registration is open
-
-- name: Burlington Ruby Conference
-  location: Burlington, VT
-  dates: "July 31-August 2, 2015"
-  url: http://burlingtonrubyconference.com/
-  twitter: btvrubyconf
-  reg_phrase: Registration is open
-
-- name: eurucamp
-  location: Potsdam, Germany
-  dates: "July 31-August 2, 2015"
-  url: http://eurucamp.org
-  twitter: eurucamp
-  reg_phrase: Registration is open
-
 - name: DeccanRubyConf
   location: Pune, India
   dates: "August 8, 2015"
@@ -123,12 +87,6 @@
   url: http://www.euruko2015.org/
   twitter: euruko
 
-- name: RubyWorld Conference
-  location: Matsue, Japan
-  dates: "November 11-12, 2015"
-  url: http://www.rubyworld-conf.org/
-  twitter: rubyworldconf
-
 - name: Keep Ruby Weird
   location: Austin, Texas
   dates: "October 23, 2015"
@@ -136,6 +94,12 @@
   twitter: keeprubyweird
   cfp_phrase: CFP closes
   cfp_date: "July 31, 2015"
+
+- name: RubyWorld Conference
+  location: Matsue, Japan
+  dates: "November 11-12, 2015"
+  url: http://www.rubyworld-conf.org/
+  twitter: rubyworldconf
 
 - name: RubyDay
   location: Turin, Italy
