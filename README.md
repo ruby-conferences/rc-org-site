@@ -42,10 +42,10 @@ following items:
 
 ## Contributing
 
-The list of events is driven by the three files in the `data` folder - if you
+The list of events is driven by the two files in the `data` folder - if you
 have an update for those things, just change the JSON and send a PR.
 
-If you have news, please follow the coventions you see in the
+If you have news, please follow the conventions you see in the
 `source/news/posts` folder including filename and title. No biggie if you're not
 sure - this can be tweaked easily enough.
 
