@@ -475,3 +475,12 @@
   dates: "July 31-August 2, 2015"
   url: http://eurucamp.org
   twitter: eurucamp
+
+- name: DeccanRubyConf
+  location: Pune, India
+  dates: "August 8, 2015"
+  url: http://www.deccanrubyconf.org
+  twitter: deccanrubyconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP closes
+  cfp_date: "June 15, 2015"
