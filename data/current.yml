@@ -55,6 +55,13 @@
   cfp_phrase: CFP closes
   cfp_date: "June 15, 2015"
 
+- name: ROSSConf Berlin
+  location: Berlin, Germany
+  dates: "September 26, 2015"
+  url: http://www.rossconf.io/
+  twitter: rossconf
+  reg_phrase: Registration is open
+
 - name: ArrrrCamp
   location: Ghent, Belgium
   dates: "October 1-2, 2015"
