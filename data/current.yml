@@ -1,16 +1,3 @@
-- name: Madison+ Ruby
-  location: Madison, WI
-  dates: "August 20-22, 2015"
-  url: http://madisonpl.us/ruby/
-  twitter: madisonruby
-  reg_phrase: Registration is open
-
-- name: Ruby Midwest
-  location: Kansas City, MO
-  dates: "August 28-29, 2015"
-  url: http://rubymidwest.com/
-  twitter: rubymidwest
-
 - name: Barcelona Ruby Conf
   location: Barcelona, Spain
   dates: "September 1-2, 2015"
