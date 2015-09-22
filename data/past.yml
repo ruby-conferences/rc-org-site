@@ -511,3 +511,9 @@
   dates: "September 14-15, 2015"
   url: http://rubyconf.pt
   twitter: rubyconfpt
+
+- name: WindyCityRails
+  location: Chicago, IL
+  dates: "September 17-18, 2015"
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
