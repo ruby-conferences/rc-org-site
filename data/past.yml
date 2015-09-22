@@ -499,3 +499,9 @@
   dates: "September 1-2, 2015"
   url: http://www.baruco.org/
   twitter: baruco
+
+- name: RubyConf Taiwan
+  location: Taipei, Taiwan
+  dates: "September 11-12, 2015"
+  url: http://rubyconf.tw/
+  twitter: rubytaiwan
