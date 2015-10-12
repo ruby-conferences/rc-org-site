@@ -4,8 +4,6 @@
   url: http://www.rockymtnruby.com/
   twitter: rockymtnruby
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "June 15, 2015"
 
 - name: ROSSConf Berlin
   location: Berlin, Germany
@@ -19,8 +17,6 @@
   dates: "October 1-2, 2015"
   url: http://2015.arrrrcamp.be
   twitter: arrrrcamp
-  cfp_phrase: CFP closes
-  cfp_date: "June 21, 2015"
 
 - name: RubyConf Colombia
   location: Medellin, Colombia
@@ -28,8 +24,6 @@
   url: http://www.rubyconf.co/
   twitter: rubyconfco
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "July 31, 2015"
 
 - name: EuRuKo
   location: Salzburg, Austria
@@ -42,8 +36,6 @@
   dates: "October 23, 2015"
   url: http://keeprubyweird.com
   twitter: keeprubyweird
-  cfp_phrase: CFP closes
-  cfp_date: "July 31, 2015"
 
 - name: RubyWorld Conference
   location: Matsue, Japan
@@ -57,8 +49,6 @@
   url: http://www.rubyday.it
   twitter: rubydayit
   reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "July 1, 2015"
 
 - name: RubyConf
   location: San Antonio, TX
