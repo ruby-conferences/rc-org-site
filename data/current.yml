@@ -35,6 +35,7 @@
   dates: "November 15-17, 2015"
   url: http://rubyconf.org/
   twitter: rubyconf
+  reg_phrase: Registration is open
 
 - name: RailsIsrael
   location: Tel Aviv, Israel
@@ -51,8 +52,23 @@
   url: http://rubykaigi.org/2015
   twitter: rubykaigi
 
+- name: RubyConf Australia
+  location: Gold Coast, Australia
+  dates: "February 10-13, 2016"
+  url: http://www.rubyconf.org.au/2016
+  twitter: rubyconf_au
+  reg_phrase: Registration is open
+
 - name: Bath Ruby Conference
   location: Bath, UK
   dates: "March 11, 2016"
   url: http://2016.bathruby.org
   twitter: bathruby
+
+- name: Ruby on Ales
+  location: Bend, Oregon
+  dates: "March 31 and April 1, 2016"
+  url: https://ruby.onales.com/
+  twitter: rbonales
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
