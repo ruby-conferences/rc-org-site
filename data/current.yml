@@ -54,6 +54,12 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
+- name: RailsConf
+  location: Kansas City, MO
+  dates: "May 4-6, 2016"
+  url: http://railsconf.org/
+  twitter: rubyconf
+
 - name: Brighton Ruby Conference
   location: Brighton, UK
   dates: "July 8, 2016"
