@@ -542,3 +542,10 @@
   dates: "October 1-2, 2015"
   url: http://2015.arrrrcamp.be
   twitter: arrrrcamp
+
+- name: RubyConf Colombia
+  location: Medellin, Colombia
+  dates: "October 15-16, 2015"
+  url: http://www.rubyconf.co/
+  twitter: rubyconfco
+  reg_phrase: Registration is open
