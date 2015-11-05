@@ -72,3 +72,9 @@
   twitter: rbonales
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
+
+- name: Brighton Ruby Conference
+  location: Brighton, UK
+  dates: "July 8, 2016"
+  url: http://brightonruby.org
+  twitter: brightonruby
