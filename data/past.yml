@@ -573,3 +573,9 @@
   dates: "November 13, 2015"
   url: http://www.rubyday.it
   twitter: rubydayit
+
+- name: RubyConf
+  location: San Antonio, TX
+  dates: "November 15-17, 2015"
+  url: http://rubyconf.org/
+  twitter: rubyconf
