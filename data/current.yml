@@ -49,3 +49,9 @@
   dates: "July 8, 2016"
   url: http://brightonruby.com
   twitter: brightonruby
+
+- name: RubyConf
+  location: Cincinnati, OH
+  dates: "November 10-12, 2016"
+  url: http://rubyconf.org/
+  twitter: rubyconf
