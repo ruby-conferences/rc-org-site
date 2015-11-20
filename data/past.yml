@@ -543,6 +543,13 @@
   url: http://2015.arrrrcamp.be
   twitter: arrrrcamp
 
+- name: Los Angeles Ruby Conference
+  location: Los Angeles, CA
+  dates: "October 10, 2015"
+  url: http://larubyconf.com/
+  twitter: larubyconf
+  video_link: http://confreaks.com/events/larubyconf2015
+
 - name: RubyConf Colombia
   location: Medellin, Colombia
   dates: "October 15-16, 2015"
