@@ -560,6 +560,7 @@
   dates: "October 23, 2015"
   url: http://keeprubyweird.com
   twitter: keeprubyweird
+  video_link: http://confreaks.tv/events/keeprubyweird2015
 
 - name: RubyWorld Conference
   location: Matsue, Japan
@@ -578,3 +579,4 @@
   dates: "November 15-17, 2015"
   url: http://rubyconf.org/
   twitter: rubyconf
+  video_link: http://confreaks.tv/events/rubyconf2015
