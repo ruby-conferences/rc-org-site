@@ -46,6 +46,13 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
+- name: Rubyconf Philippines
+  location: Manila, Philippines
+  dates: "April 7-9, 2016"
+  url: http://rubyconf.ph
+  twitter: rubyconfph
+  cfp_phrase: CFP is open
+
 - name: RailsConf
   location: Kansas City, MO
   dates: "May 4-6, 2016"
