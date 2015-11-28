@@ -16,6 +16,7 @@
   dates: "January 31, 2016"
   url: http://fosdem.rubybelgium.be/
   twitter: ruby_fosdem
+  cfp_phrase: CFP is open
 
 - name: Rubyfuza
   location: Cape Town, South Africa
@@ -50,6 +51,7 @@
   dates: "May 4-6, 2016"
   url: http://railsconf.org/
   twitter: rubyconf
+  cfp_phrase: CFP is open
 
 - name: Brighton Ruby Conference
   location: Brighton, UK
