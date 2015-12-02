@@ -31,6 +31,13 @@
   url: http://2016.bathruby.org
   twitter: bathruby
 
+- name: RubyConfIndia
+  location: Kochi, India
+  dates: "March 19-20, 2016"
+  url: http://rubyconfindia.org
+  twitter: rubyconfindia
+  reg_phrase: Registration is open
+
 - name: Ruby on Ales
   location: Bend, Oregon
   dates: "March 31 and April 1, 2016"
