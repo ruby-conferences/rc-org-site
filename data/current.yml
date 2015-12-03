@@ -45,6 +45,12 @@
   twitter: rbonales
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
+  
+- name: Ancient City Ruby
+  location: St. Augustine, FL
+  dates: "April 6-8, 2016"
+  url: http://www.ancientcityruby.com/
+  twitter: ancientcityruby
 
 - name: Rubyconf Philippines
   location: Manila, Philippines
