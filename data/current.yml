@@ -72,6 +72,12 @@
   url: http://brightonruby.com
   twitter: brightonruby
 
+- name: WindyCityRails
+  location: Chicago, IL
+  dates: "September 15-16, 2016"
+  url: http://www.windycityrails.org/
+  twitter: windycityrails
+
 - name: RubyConf
   location: Cincinnati, OH
   dates: "November 10-12, 2016"
