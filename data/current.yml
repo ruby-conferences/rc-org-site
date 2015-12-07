@@ -31,6 +31,12 @@
   url: http://2016.bathruby.org
   twitter: bathruby
 
+- name: wroc_love.rb
+  location: Wrocław, Poland
+  dates: "March 11-13, 2016"
+  url: http://wrocloverb.com
+  twitter: wrocloverb
+
 - name: RubyConfIndia
   location: Kochi, India
   dates: "March 19-20, 2016"
