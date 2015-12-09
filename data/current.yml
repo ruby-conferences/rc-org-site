@@ -72,6 +72,12 @@
   url: http://brightonruby.com
   twitter: brightonruby
 
+- name: Full Stack Fest
+  location: Barcelona, Spain
+  dates: "September 5-9, 2016"
+  url: http://2016.fullstackfest.com/
+  twitter: fullstackfest
+  
 - name: WindyCityRails
   location: Chicago, IL
   dates: "September 15-16, 2016"
