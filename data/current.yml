@@ -17,6 +17,7 @@
   url: http://www.rubyfuza.org
   twitter: rubyfuza
   reg_phrase: Registration is open
+  cfp_phrase: CFP is open
 
 - name: RubyConf Australia
   location: Gold Coast, Australia
@@ -36,6 +37,7 @@
   dates: "March 11-13, 2016"
   url: http://wrocloverb.com
   twitter: wrocloverb
+  cfp_phrase: CFP is open
 
 - name: RubyConfIndia
   location: Kochi, India
@@ -58,6 +60,7 @@
   dates: "April 6-8, 2016"
   url: http://www.ancientcityruby.com/
   twitter: ancientcityruby
+  reg_phrase: Registration is open
 
 - name: Rubyconf Philippines
   location: Manila, Philippines
