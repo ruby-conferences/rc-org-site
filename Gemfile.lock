@@ -8,9 +8,9 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.3.7)
-    bourbon (4.2.1)
+    bourbon (4.2.6)
       sass (~> 3.4)
-      thor
+      thor (~> 0.19)
     builder (3.2.2)
     capybara (2.4.4)
       mime-types (>= 1.16)
