@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require 'date'
 require 'active_support'
 require 'dotenv'
