@@ -32,3 +32,11 @@ HERE
     end
   end
 end
+
+
+desc "Develop locally using middleman server"
+task :dev do
+  system "middleman server"
+end
+
+task default: ["dev"]
