@@ -85,6 +85,12 @@
   url: http://brightonruby.com
   twitter: brightonruby
 
+- name: RubyKaigi
+  location: Kyoto, Japan
+  dates: "September 8-10, 2016"
+  url: http://rubykaigi.org/2016
+  twitter: rubykaigi
+
 - name: WindyCityRails
   location: Chicago, IL
   dates: "September 15-16, 2016"
