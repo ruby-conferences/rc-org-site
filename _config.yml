@@ -1,0 +1,14 @@
+safe: true
+lsi: false
+source: .
+exclude:
+  - CNAME
+  - Dangerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - Rakefile
+  - data_file_validator.rb
+  - notes.txt
+  - vendor
